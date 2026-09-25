@@ -1,0 +1,79 @@
+{
+ "pulled": "2026-09-25",
+ "source": "Statista (via connector)",
+ "brent_weekly_2026": {
+  "statista_id": 326017,
+  "unit": "USD/bbl",
+  "note": "Weekly Europe Brent spot, 5 Jan to 21 Jul 2026",
+  "values": [
+   61.81,
+   63.88,
+   63.94,
+   64.91,
+   66.43,
+   68.97,
+   68.72,
+   71.62,
+   78.48,
+   88.75,
+   100.71,
+   100.34,
+   108.45,
+   107.13,
+   95.17,
+   100.72,
+   104.53,
+   110.31,
+   107.81,
+   111.41,
+   96.51,
+   95.98,
+   91.57,
+   79.65,
+   77.08,
+   73.43,
+   75.68,
+   85.21,
+   91.47
+  ]
+ },
+ "producers_2025": {
+  "statista_id": 237115,
+  "unit": "million barrels per day",
+  "origin": "Energy Institute",
+  "values": [
+   [
+    "United States",
+    21.07
+   ],
+   [
+    "Saudi Arabia",
+    11.41
+   ],
+   [
+    "Russia",
+    10.74
+   ],
+   [
+    "Canada",
+    6.16
+   ],
+   [
+    "Iran",
+    5.18
+   ],
+   [
+    "Iraq",
+    4.4
+   ],
+   [
+    "China",
+    4.34
+   ],
+   [
+    "UAE",
+    4.21
+   ]
+  ]
+ }
+}

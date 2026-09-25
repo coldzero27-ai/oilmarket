@@ -1,0 +1,24 @@
+{
+ "updated_utc": null,
+ "seed": true,
+ "source": "Statista seed (replaced on first Action run)",
+ "provisional": true,
+ "items": [
+  {
+   "sym": "BRENT",
+   "name": "Brent",
+   "price": 108.13,
+   "prev": 95.36,
+   "time_utc": "2026-09-11T00:00:00Z",
+   "spark": []
+  },
+  {
+   "sym": "WTI",
+   "name": "WTI",
+   "price": 84.91,
+   "prev": null,
+   "time_utc": "2026-07-21T00:00:00Z",
+   "spark": []
+  }
+ ]
+}
