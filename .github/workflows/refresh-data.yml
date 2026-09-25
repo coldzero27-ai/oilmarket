@@ -1,0 +1,47 @@
+name: Refresh oil data
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"   # every 30 min (GitHub may delay scheduled runs)
+  workflow_dispatch: {}       # "Run workflow" button for manual refresh
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Prices (Brent, WTI)
+        continue-on-error: true
+        env:
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+        run: python3 scripts/fetch_prices.py
+
+      - name: News headlines
+        continue-on-error: true
+        run: python3 scripts/fetch_news.py
+
+      - name: Chokepoint transits (IMF PortWatch)
+        continue-on-error: true
+        run: python3 scripts/fetch_chokepoints.py
+
+      - name: Commit changed data
+        run: |
+          git config user.name "oil-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/*.json
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "data: refresh"
+            git pull --rebase --autostash
+            git push
+          fi
