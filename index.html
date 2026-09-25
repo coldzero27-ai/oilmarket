@@ -1,0 +1,312 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Oil Market Watch</title>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--gold:#E9B949;--gold2:#FFD778;--red:#FF6B5E;--amber:#FFB347;--green:#4FD69C;--ink:#EAF0F7;--mute:#9AA8BA}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;background:#05070b;overflow:hidden;font-family:Inter,system-ui,sans-serif;color:var(--ink)}
+#stage{position:absolute;left:0;top:0;width:1920px;height:1080px;transform-origin:0 0;overflow:hidden;background:#0b1220}
+#map{position:absolute;left:0;top:0;width:1920px;height:1080px;border:0}
+#stage.nopoint #map{pointer-events:none}
+.card{position:absolute;border-radius:20px;padding:22px 26px;border:1px solid rgba(255,255,255,.18)}
+body.g-dark .card{background:rgba(10,16,26,.58);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+body.g-heavy .card{background:rgba(8,12,20,.84);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+body.g-light .card{background:rgba(250,248,242,.8);color:#1E232B;border-color:rgba(30,35,43,.18);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+body.g-light .mute{color:#5a6472}body.g-light .gold{color:#8a5a00}body.g-light .up{color:#1f7a4d}body.g-light .dn{color:#b3261e}
+body.g-light .news .it.new{border-left-color:#b07a00}
+.mute{color:var(--mute)}.gold{color:var(--gold2)}.up{color:var(--green)}.dn{color:var(--red)}
+.ph{font-size:17px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;margin-bottom:10px}
+.hd{left:36px;top:28px;right:36px;height:92px;display:flex;align-items:center;justify-content:space-between;padding:0 30px}
+.title{font-family:'Barlow Condensed';font-weight:700;font-size:52px;letter-spacing:.06em}
+.title small{font-family:Inter;font-size:17px;font-weight:600;letter-spacing:.16em;margin-left:16px;vertical-align:10px}
+.clock{font-family:'Barlow Condensed';font-size:52px;font-weight:600;text-align:right;line-height:1}
+.clock small{display:block;font-family:Inter;font-size:16px;font-weight:500;letter-spacing:.1em;margin-top:4px}
+/* left: prices + producers */
+.lc{left:36px;top:146px;width:380px}
+.px{display:flex;justify-content:space-between;align-items:baseline;padding:5px 0}
+.px .n{font-family:'Barlow Condensed';font-size:32px;font-weight:600;letter-spacing:.03em}
+.px .v{font-family:'Barlow Condensed';font-size:50px;font-weight:700;line-height:1.05}
+.px .d{display:block;text-align:right;font-size:16px;font-weight:600}
+.srcl{font-size:13.5px;line-height:1.35;margin-top:6px}
+.spark{display:block;width:100%;height:72px;margin:8px 0 2px}
+.pc{left:36px;bottom:40px;width:380px}
+.bars .r{display:grid;grid-template-columns:120px 1fr 50px;align-items:center;gap:10px;margin:5px 0;font-size:20px}
+.bars .bar{height:14px;border-radius:7px;background:rgba(160,185,215,.5)}
+.bars .r.me{color:var(--gold2);font-weight:700}.bars .r.me .bar{background:var(--gold)}
+body.g-light .bars .r.me{color:#8a5a00}
+body.g-light .bars .bar{background:rgba(60,80,110,.38)}
+body.g-light .cp.bad{background:rgba(255,232,228,.9)!important}
+.bars .r span:last-child{text-align:right;font-family:'Barlow Condensed';font-size:23px}
+/* right: news */
+.news{right:36px;top:146px;width:430px;bottom:212px;overflow:hidden}
+.news .it{padding:11px 0 11px 14px;border-bottom:1px solid rgba(128,140,160,.25);border-left:4px solid transparent;margin-left:-18px}
+.news .it.new{border-left-color:var(--gold)}
+.news .h{font-size:21px;font-weight:600;line-height:1.28;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.news .s{font-size:14.5px;margin-top:4px;letter-spacing:.03em}
+/* bottom: chokepoints */
+.strip{position:absolute;left:452px;right:36px;bottom:40px;height:150px;display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.strip .card{position:relative;padding:14px 18px}
+.cp .n{font-family:'Barlow Condensed';font-size:26px;font-weight:700;letter-spacing:.03em;white-space:nowrap}
+.cp .k{font-family:'Barlow Condensed';font-size:46px;font-weight:700;line-height:1}
+.cp .k small{font-family:Inter;font-size:15px;font-weight:500;margin-left:6px}
+.cp .t{font-size:15px;margin-top:4px;line-height:1.3}
+.cp.bad{border-color:rgba(255,107,94,.85)!important}
+body:not(.g-light) .cp.bad{background:rgba(60,14,10,.62)!important}
+.cp.warn{border-color:rgba(255,179,71,.8)!important}
+.pill{display:inline-block;font-family:Inter;font-size:13px;letter-spacing:.1em;font-weight:700;padding:2px 8px;border-radius:9px;margin-left:8px;vertical-align:5px}
+.pill.red{background:var(--red);color:#1a0b09}.pill.amber{background:var(--amber);color:#1f1300}
+.foot{position:absolute;left:452px;right:36px;bottom:12px;font-size:13.5px;color:rgba(234,240,247,.75);text-shadow:0 1px 3px rgba(0,0,0,.9);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.stale{color:var(--amber)}
+/* controls */
+#ctl{position:fixed;left:50%;bottom:14px;transform:translateX(-50%);z-index:50;display:flex;gap:7px;flex-wrap:wrap;justify-content:center;background:rgba(8,12,20,.93);border:1px solid rgba(255,255,255,.18);border-radius:14px;padding:9px 11px;max-width:96vw;transition:opacity .4s}
+#ctl span{color:#9AA8BA;font-size:12px;letter-spacing:.12em;align-self:center;margin:0 3px 0 9px}
+#ctl button{font:600 13px Inter;color:#EAF0F7;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.2);border-radius:8px;padding:6px 10px;cursor:pointer}
+#ctl button.on{border-color:var(--gold);color:var(--gold2);background:rgba(233,185,73,.14)}
+#ctl{opacity:0;pointer-events:none}
+body.showctl #ctl{opacity:1;pointer-events:auto}
+#filenote{position:fixed;top:10px;left:50%;transform:translateX(-50%);z-index:60;background:#3a2a05;color:#FFD778;border:1px solid #E9B949;padding:8px 14px;border-radius:8px;font-size:14px;display:none}
+@media print{@page{size:landscape;margin:0}#ctl,#filenote{display:none}html,body{overflow:visible}}
+</style></head>
+<body>
+<div id="filenote">Opened as a local file: browsers block the data files here. Use the GitHub Pages link to see live cards.</div>
+<div id="stage" class="nopoint">
+ <iframe id="map" title="Live ship positions" allow="fullscreen"></iframe>
+
+ <div class="card hd"><div class="title">OIL MARKET WATCH<small class="mute">TANKERS · PRICES · HEADLINES</small></div>
+  <div class="clock"><span id="ck">--:--</span> <span class="mute" style="font-size:24px">GST</span><small class="mute" id="dt">—</small></div></div>
+
+ <div class="card lc"><div class="ph mute">Benchmarks · USD/bbl</div>
+  <div id="prices"></div>
+  <canvas class="spark" id="spark" width="660" height="144"></canvas>
+  <div class="srcl mute" id="psrc">—</div></div>
+
+ <div class="card pc"><div class="ph mute">Top producers 2025 · mb/d</div><div class="bars" id="prod"></div>
+  <div class="srcl mute" id="prodsrc">—</div></div>
+
+ <div class="card news"><div class="ph mute">Oil headlines</div><div id="newsl"></div></div>
+
+ <div class="strip" id="strip"></div>
+ <div class="foot" id="foot">—</div>
+</div>
+
+<div id="ctl">
+ <span>MAP</span><button data-p="vf">VesselFinder</button><button data-p="mst">MyShipTracking</button><button data-p="mst-sat">MST satellite</button><button data-p="mt">MarineTraffic sat</button>
+ <span>VIEW</span><button data-v="gulf">Gulf</button><button data-v="region">Region</button><button data-v="world">World</button>
+ <span>GLASS</span><button data-g="dark">Dark</button><button data-g="heavy">Heavy</button><button data-g="light">Light</button>
+ <span>MAP</span><button id="pt">Interactive: off</button>
+ <span>SCREEN</span><button id="fit">Fit</button><button id="pres">Present</button>
+</div>
+
+<script>
+// ===== CONFIG (single source of truth for defaults; URL params ?map=&view=&glass= override) =====
+var DEFAULTS = {map: 'vf', view: 'region', glass: 'dark'};
+var DATA = {prices: 'data/prices.json', news: 'data/news.json', choke: 'data/chokepoints.json', stats: 'data/stats.json'};
+var REFETCH_MS = 5 * 60 * 1000;      // re-read data files
+var RECOMPUTE_MS = 20 * 1000;        // clock, "new" highlights, staleness
+var RELOAD_IDLE_MS = 20 * 60 * 1000; // full reload when idle (also reloads the map)
+var STALE_H = {prices: 3, news: 3, choke: 24 * 16};
+var NEW_NEWS_H = 3;
+var VIEWS = {gulf: {lat: 25.6, lng: 55.8, z: 7}, region: {lat: 22, lng: 52, z: 5}, world: {lat: 18, lng: 40, z: 3}};
+var UAE_NAME = 'UAE';
+
+// ===== STATE =====
+var qs = new URLSearchParams(location.search);
+var state = {
+  map: qs.get('map') || DEFAULTS.map,
+  view: qs.get('view') || DEFAULTS.view,
+  glass: qs.get('glass') || DEFAULTS.glass,
+  fit: true,
+  data: {prices: null, news: null, choke: null, stats: null}
+};
+
+function $(id) { return document.getElementById(id); }
+function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return {'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}[c]; }); }
+function gstNow() { return new Date(Date.now() + 4 * 3600e3); }
+var MON = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+var DOW = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+function pad(n) { return String(n).padStart(2, '0'); }
+function gstStr(iso, withTime) { // ISO UTC -> "25 Sep · 14:20" in GST with correct date rollover
+  if (!iso) return '—';
+  var d = new Date(new Date(iso).getTime() + 4 * 3600e3);
+  if (isNaN(d)) return '—';
+  var s = d.getUTCDate() + ' ' + MON[d.getUTCMonth()];
+  return withTime ? s + ' · ' + pad(d.getUTCHours()) + ':' + pad(d.getUTCMinutes()) : s;
+}
+function ageH(iso) { return iso ? (Date.now() - new Date(iso).getTime()) / 3600e3 : Infinity; }
+
+// ===== MAP EMBED =====
+function loadMap() {
+  var q = VIEWS[state.view] || VIEWS[DEFAULTS.view], m = $('map'), doc = null;
+  if (state.map === 'vf') {
+    m.removeAttribute('srcdoc');
+    m.src = 'https://www.vesselfinder.com/aismap?zoom=' + q.z + '&lat=' + q.lat + '&lon=' + q.lng + '&width=1920&height=1080&names=false&track=false';
+    return;
+  }
+  if (state.map === 'mst' || state.map === 'mst-sat') {
+    doc = '<html><body style="margin:0"><script>var mst_width="100%";var mst_height="1080px";var mst_border="0";var mst_map_style="' + (state.map === 'mst-sat' ? 'satellite' : 'simple') + '";var mst_mmsi="";var mst_show_track="";var mst_show_info="";var mst_fleet="";var mst_lat="' + q.lat + '";var mst_lng="' + q.lng + '";var mst_zoom="' + q.z + '";var mst_show_names="0";var mst_scroll_wheel="0";var mst_show_menu="0";<\/script><script id="myshiptrackingscript" src="https://www.myshiptracking.com/js/widgetApi.js"><\/script></body></html>';
+  } else if (state.map === 'mt') {
+    doc = '<html><body style="margin:0"><script>width="100%";height="1080";border="0";shownames="false";latitude="' + q.lat + '";longitude="' + q.lng + '";zoom="' + q.z + '";maptype="1";trackvessel="0";fleet="";remember="false";language="en";showmenu=false;<\/script><script src="https://www.marinetraffic.com/js/embed.js"><\/script></body></html>';
+  }
+  if (doc) { m.removeAttribute('src'); m.srcdoc = doc; }
+}
+
+// ===== DATA =====
+function jget(u) {
+  return fetch(u + (u.indexOf('?') < 0 ? '?' : '&') + 't=' + Date.now(), {cache: 'no-store'})
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); });
+}
+function refetch() {
+  Object.keys(DATA).forEach(function (k) {
+    jget(DATA[k]).then(function (j) { state.data[k] = j; render(); })
+      .catch(function () { /* keep last good data on the wall */ });
+  });
+}
+
+// ===== RENDER =====
+function renderPrices() {
+  var p = state.data.prices, s = state.data.stats, h = '';
+  if (p && p.items) {
+    p.items.forEach(function (it) {
+      var ch = (it.prev != null && it.price != null) ? it.price - it.prev : null;
+      var pct = ch != null && it.prev ? ch / it.prev * 100 : null;
+      var cls = ch == null ? 'mute' : (ch >= 0 ? 'up' : 'dn');
+      var sign = ch == null ? '' : (ch >= 0 ? '+' : '−');
+      var delta = ch == null ? gstStr(it.time_utc, false) : sign + Math.abs(ch).toFixed(2) + ' (' + sign + Math.abs(pct).toFixed(1) + '%)';
+      h += '<div class="px"><span class="n">' + esc(it.name).toUpperCase() + '</span><span><span class="v">' + (it.price != null ? Number(it.price).toFixed(2) : '—') + '</span><span class="d ' + cls + '">' + delta + '</span></span></div>';
+    });
+    var b = p.items[0], w = p.items[1];
+    if (b && w && b.price != null && w.price != null) {
+      h += '<div class="px"><span class="n mute" style="font-size:24px">BRENT–WTI</span><span class="n" style="font-size:28px">' + (b.price - w.price).toFixed(2) + '</span></div>';
+    }
+    var stale = ageH(p.updated_utc) > STALE_H.prices;
+    $('psrc').innerHTML = (p.seed ? '<span class="stale">Seed values from Statista · waiting for first data run</span>' :
+      esc(p.source) + ' · updated ' + gstStr(p.updated_utc, true) + ' GST' + (stale ? ' <span class="stale">· stale</span>' : '')) +
+      '<br>Chart: ' + (b && b.spark && b.spark.length > 4 ? 'Brent, last ' + b.spark.length + ' sessions' : 'Brent 2026 weekly (Statista)');
+    drawSpark(b && b.spark && b.spark.length > 4 ? b.spark : (s ? s.brent_weekly_2026.values : []));
+  }
+  $('prices').innerHTML = h || '<div class="mute">Waiting for prices…</div>';
+}
+function drawSpark(v) {
+  var c = $('spark'), x = c.getContext('2d'), W = c.width, H = c.height;
+  x.clearRect(0, 0, W, H);
+  if (!v || v.length < 2) return;
+  var mn = Math.min.apply(null, v), mx = Math.max.apply(null, v), pd = (mx - mn) * 0.12 || 1;
+  mn -= pd; mx += pd;
+  x.beginPath();
+  v.forEach(function (y, i) { var X = i / (v.length - 1) * W, Y = H - (y - mn) / (mx - mn) * H; i ? x.lineTo(X, Y) : x.moveTo(X, Y); });
+  x.strokeStyle = document.body.classList.contains('g-light') ? '#9a6a00' : '#E9B949'; x.lineWidth = 4; x.stroke();
+  x.lineTo(W, H); x.lineTo(0, H); x.closePath(); x.fillStyle = 'rgba(233,185,73,.14)'; x.fill();
+}
+function renderProducers() {
+  var s = state.data.stats; if (!s) return;
+  var v = s.producers_2025.values, top = v[0][1];
+  $('prod').innerHTML = v.map(function (p) {
+    var nm = p[0].replace('United States', 'USA').replace('Saudi Arabia', 'Saudi');
+    return '<div class="r' + (p[0] === UAE_NAME ? ' me' : '') + '"><span>' + esc(nm) + '</span><div class="bar" style="width:' + (p[1] / top * 100) + '%"></div><span>' + p[1].toFixed(1) + '</span></div>';
+  }).join('');
+  $('prodsrc').textContent = 'Statista (' + s.producers_2025.origin + ') · pulled ' + s.pulled;
+}
+function renderNews() {
+  var n = state.data.news, h = '';
+  if (n && n.items && n.items.length) {
+    n.items.slice(0, 8).forEach(function (it) {
+      var isNew = ageH(it.time_utc) < NEW_NEWS_H;
+      h += '<div class="it' + (isNew ? ' new' : '') + '"><div class="h">' + esc(it.title) + '</div><div class="s mute">' + esc(it.source) + ' · ' + gstStr(it.time_utc, true) + '</div></div>';
+    });
+  }
+  $('newsl').innerHTML = h || '<div class="mute" style="font-size:18px">Headlines appear after the first data run.</div>';
+}
+function renderChoke() {
+  var c = state.data.choke, h = '';
+  var names = ['Strait of Hormuz', 'Bab el-Mandeb', 'Suez Canal', 'Malacca Strait', 'Cape of Good Hope'];
+  var byName = {};
+  if (c && c.items) c.items.forEach(function (i) { byName[i.name] = i; });
+  names.forEach(function (nm) {
+    var i = byName[nm], cls = '', pill = '', k = '—', t = 'Waiting for IMF PortWatch data';
+    if (i && !i.error && i.total_7d != null) {
+      var pct = i.pct_total;
+      if (pct != null && pct <= -50) { cls = ' bad'; pill = '<span class="pill red">' + pct + '%</span>'; }
+      else if (pct != null && pct <= -20) { cls = ' warn'; pill = '<span class="pill amber">' + pct + '%</span>'; }
+      k = Math.round(i.total_7d) + '<small class="mute">ships/day</small>';
+      t = 'Tankers ' + (i.tanker_7d != null ? Math.round(i.tanker_7d) : '—') + '/day · last yr ' + (i.total_ly != null ? Math.round(i.total_ly) : '—') + '/day<br>7 days to ' + gstStr(i.latest_date + 'T00:00:00Z', false) + (pct != null && pct > -20 ? ' · ' + (pct >= 0 ? '+' : '') + pct + '%' : '');
+    }
+    h += '<div class="card cp' + cls + '"><div class="n">' + esc(nm.replace('Strait of ', '')) + pill + '</div><div class="k">' + k + '</div><div class="t mute">' + t + '</div></div>';
+  });
+  $('strip').innerHTML = h;
+}
+function renderFoot() {
+  var d = state.data, parts = [];
+  parts.push('Map: live embed (' + ({vf: 'VesselFinder', mst: 'MyShipTracking', 'mst-sat': 'MyShipTracking', mt: 'MarineTraffic'}[state.map] || '') + ')');
+  if (d.choke && d.choke.updated_utc) parts.push('Chokepoints: IMF PortWatch, weekly' + (ageH(d.choke.updated_utc) > STALE_H.choke ? ' (stale)' : ''));
+  if (d.news && d.news.updated_utc) parts.push('News checked ' + gstStr(d.news.updated_utc, true) + (ageH(d.news.updated_utc) > STALE_H.news ? ' (stale)' : ''));
+  parts.push('All times GST (UTC+4)');
+  $('foot').textContent = parts.join('  ·  ');
+}
+function render() { renderPrices(); renderProducers(); renderNews(); renderChoke(); renderFoot(); }
+function tick() {
+  var g = gstNow();
+  $('ck').textContent = pad(g.getUTCHours()) + ':' + pad(g.getUTCMinutes());
+  $('dt').textContent = DOW[g.getUTCDay()] + ' ' + g.getUTCDate() + ' ' + MON[g.getUTCMonth()] + ' ' + g.getUTCFullYear();
+}
+
+// ===== CONTROLS / FIT =====
+function applyGlass() { document.body.classList.remove('g-dark', 'g-heavy', 'g-light'); document.body.classList.add('g-' + state.glass); }
+function mark() {
+  document.querySelectorAll('#ctl button[data-p]').forEach(function (b) { b.classList.toggle('on', b.dataset.p === state.map); });
+  document.querySelectorAll('#ctl button[data-v]').forEach(function (b) { b.classList.toggle('on', b.dataset.v === state.view); });
+  document.querySelectorAll('#ctl button[data-g]').forEach(function (b) { b.classList.toggle('on', b.dataset.g === state.glass); });
+  $('fit').textContent = state.fit ? 'Fit' : 'Full size';
+}
+function syncUrl() {
+  var p = new URLSearchParams();
+  if (state.map !== DEFAULTS.map) p.set('map', state.map);
+  if (state.view !== DEFAULTS.view) p.set('view', state.view);
+  if (state.glass !== DEFAULTS.glass) p.set('glass', state.glass);
+  history.replaceState(null, '', location.pathname + (p.toString() ? '?' + p : ''));
+}
+$('ctl').addEventListener('click', function (e) {
+  var b = e.target.closest('button'); if (!b) return;
+  if (b.dataset.p) { state.map = b.dataset.p; loadMap(); }
+  if (b.dataset.v) { state.view = b.dataset.v; loadMap(); }
+  if (b.dataset.g) { state.glass = b.dataset.g; applyGlass(); render(); }
+  if (b.id === 'pt') { var off = $('stage').classList.toggle('nopoint'); b.textContent = 'Interactive: ' + (off ? 'off' : 'on'); }
+  if (b.id === 'fit') { state.fit = !state.fit; fit(); }
+  if (b.id === 'pres') {
+    document.body.classList.toggle('present');
+    if (document.body.classList.contains('present') && document.documentElement.requestFullscreen) document.documentElement.requestFullscreen().catch(function () {});
+  }
+  syncUrl(); mark(); lastInput = Date.now();
+});
+var hideT, lastInput = Date.now();
+var CTL_HIDE_MS = 2500;
+function showCtl() {
+  lastInput = Date.now(); document.body.classList.add('showctl');
+  clearTimeout(hideT); hideT = setTimeout(hideCtl, CTL_HIDE_MS);
+}
+function hideCtl() { // stay visible while the pointer is on the tray
+  if ($('ctl').matches(':hover')) { hideT = setTimeout(hideCtl, CTL_HIDE_MS); return; }
+  document.body.classList.remove('showctl');
+}
+['mousemove', 'touchstart', 'keydown'].forEach(function (ev) { document.addEventListener(ev, showCtl, {passive: true}); });
+function fit() {
+  var s = state.fit ? Math.min(innerWidth / 1920, innerHeight / 1080) : 1, st = $('stage');
+  st.style.transform = 'scale(' + s + ')';
+  st.style.left = state.fit ? ((innerWidth - 1920 * s) / 2) + 'px' : '0';
+  st.style.top = state.fit ? ((innerHeight - 1080 * s) / 2) + 'px' : '0';
+  document.body.style.overflow = state.fit ? 'hidden' : 'auto';
+}
+addEventListener('resize', fit);
+
+// ===== BOOT =====
+if (location.protocol === 'file:') $('filenote').style.display = 'block';
+if (qs.get('present') === '1') document.body.classList.add('present');
+applyGlass(); fit(); tick(); mark(); loadMap(); refetch();
+setInterval(tick, RECOMPUTE_MS);
+setInterval(function () { render(); }, RECOMPUTE_MS * 3);
+setInterval(refetch, REFETCH_MS);
+setInterval(function () { if (Date.now() - lastInput > RELOAD_IDLE_MS) location.reload(); }, RELOAD_IDLE_MS);
+</script>
+</body></html>
