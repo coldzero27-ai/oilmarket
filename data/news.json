@@ -1,20 +1,111 @@
 {
- "updated_utc": "2026-09-30T21:24:08Z",
+ "updated_utc": "2026-10-01T00:48:21Z",
  "feeds_ok": 5,
  "items": [
   {
-   "title": "Texas RRC plugs record 2,022 orphaned oil and gas wells in fiscal 2026",
-   "source": "World Oil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXR6emJiY242cFNiVDQ4RUdlekpPZ3VlSjdSRFQ1OUp4YVhGdXdBU1E2ekJ0QnJCU1lXTzBvcHR3ZFZzZW91dGZFNUVCejE4cVBwVUpyOG1GQk4wWXYyUHQ4RUptX1V2S0dDRERsTnMyeGxVb3NJbHJKZnJHeGxCRERTcWZtMUZVX3NCSDFXTWFSa1NyX2pvNDR4X2dSOXdaRzRTbXhhdk5pZm55VkJKOQ?oc=5",
-   "time_utc": "2026-09-30T21:18:47Z",
-   "gst": "01 Oct · 01:18"
+   "title": "Iran's Disappearing Oil Is Becoming Everyone's Problem",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNk1vZVFDNWhFSEtFOGdMcWhPS04wWmxsVWZNSzNVV01GZDZiS1haa2NnQXYtN090UVRaNmlIbUlCdjhiLVZXbGRiT2JnTENCdUxoNldiUi1sRHRfSV9TR1pGRnJ3enRjUTc1WFpGcThURGlQeFNWUzYxaDNKM0ctcEl1VG5Cb1R2U3pPWEJZdmtoWm1reXdRYmoyQdIBoAFBVV95cUxQWXRhS3pZQmttbzA3TzJEVmY4UnZLRE1DMlRLT0EtUVFVTjFvNXRDSi16Wm9iUjRQb1dNS3l2X2dJc3JOSzZjaXp6NnlodlBydUdkZXUwWUJCcl83MktFY0s3VkUycWdaelpZLUczX01ya1g2Q2E5YVlUUF9ia0p5U2lwbUpjMk5raE55YnlLRS1ZU2tLT095bVZJa3BxWGhY?oc=5",
+   "time_utc": "2026-10-01T00:00:00Z",
+   "gst": "01 Oct · 04:00"
+  },
+  {
+   "title": "The Hormuz Paradox: Why Oil Prices Remain High Despite a Surge in Flows?",
+   "source": "Anas Alhajji | Substack",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNZk10Qnl3V1F5aENNMXZHX0UzV3lqZmF4VnplZGtRWEFPM3VLLVhha29KcUtWMGFxWDZFcVZCQ1ZJREcxSU83RFBhcUVPWlJvUm5jdEplZDFpQ1hlUXJIb0VMVHJsN01rcEVnMjg3NjV4Wnk3WThqUHVfbw?oc=5",
+   "time_utc": "2026-09-30T23:58:54Z",
+   "gst": "01 Oct · 03:58"
+  },
+  {
+   "title": "OU football coach Brent Venables stands by John Mateer: 'John's our starting quarterback'",
+   "source": "Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdW93N1BxbVJJRlZ2SE80RWQtMUd1ajBWY1NXQWRwMTlrQkhoZEVPMXF5YTdxVTBIU0lWWTJuYXNjc3hiLUdOM2lNU0x6MWg5bkRHMnZicGF5dHpEVHdOTHFfVUItcDZVS1BoVktMcV9VQUI4X0JtcjRPdTdSXzFrcEFrTE50dDR5?oc=5",
+   "time_utc": "2026-09-30T23:35:01Z",
+   "gst": "01 Oct · 03:35"
+  },
+  {
+   "title": "Oklahoma Coach Brent Venables Shares Update on Sooners' Quarterback Situation",
+   "source": "Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT0hyMVNSVjV6X2hnY25aamlTUXNCRmx2dGFFMlVOSXJERks5LVlXM0JBaTZQakFNRVVvdlF5Q0M0WDNUaUJMTU5xNW0xU1RUWk4wNmhtVkJvZG42eFRIWVBSWUFCLU5CYlFuTG9WYnNKRV9hM2dZa3BHbnZFVUV3Y2ItcW9wMzk3SGpRYzFwZFZEYlRkemJhSVU2NGd3bnB6Sk9XTC1HeUJhVjgxV3d6TElUV01EQnpNQ3RwbVM3T0FzcXNmT25GZ0JMZGlZbms?oc=5",
+   "time_utc": "2026-09-30T23:04:12Z",
+   "gst": "01 Oct · 03:04"
+  },
+  {
+   "title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE1fMzFiSjhrOFpJV21kajdMYkJEd20zcGM4Sm0yREpWU09IZnBwX0VyUk9LTWlHYWhDYXZCOS04eng0d1lPdVlKX2pZUjFwYzAwZkM4NWlDazVaSUFfRHlLaTczenpiZTdrb0lXd09XZTRiWHpNVGYxcDRjaHhoZ3JvcVFtb1VZM29raVc4RE9kUXBZWVdkbmktRU5FbV9hb1Fweg?oc=5",
+   "time_utc": "2026-09-30T22:39:09Z",
+   "gst": "01 Oct · 02:39"
+  },
+  {
+   "title": "Rising heating oil prices push Southern New England homeowners to buy less fuel",
+   "source": "WJAR",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVmxXbm9jbWpPSmJTQlNhMVFBVl82YjgxQ1RmZ2wwbl8wSVZTdzFYZzJ1dGlrMDlRcWw0ZzZybUtoSHU4bHFmRkptQ3U4UVJMSFhoVjduem9JS1dQNGZTMUJvS2RKTTNYSGt6UlNSYW5VNmdETGV4NzRYbGJ0VkJYQXZCdE5TTFFBcmY1VTg0TklYTWk1V2ZmNExGeThPZnU0c0ZJZFdxaUJHek1ON19lemxTdEpuTEppUWp0TmxfeFlsS2x6LVRMX2E3RWh0S2dONnVRczBoaUxQT1JxNFV6U2NlWkQ?oc=5",
+   "time_utc": "2026-09-30T22:38:26Z",
+   "gst": "01 Oct · 02:38"
+  },
+  {
+   "title": "Cleanup complete on asphalt-filled waterway following tanker truck crash",
+   "source": "FOX40",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX1RLZk5oaFJqS19NdklTc2dkb25BMmFPV0tpY3ZZNTh2QjVFYngzd3VkYzl2bjlNcHR2OHo4RnBnYk9JU2FkUktfckU5c0lobGpuX2xMcWlGQ0JWenNXNWU3UTczRy15SUxNelhodjJKNlVja1dJTXN1RzV5aXVVSEs4Z3Y0RWJlcW82U3lQcmlOaW1YNVhQZTNJQ3Z5Vy0xZTNmd1FrYzdtci04NFJKOWln0gG3AUFVX3lxTFBRQjZ4M3dfSnpaRnJWcHJnUDBDOWE5X2ZrdUVRUzRqcmZ5Y09zdndUQ2NNM2FjbXJSRUd5bUZ5dGhhSFVkY2Vhb241cWNrMVYxU0pGclVaYU42T0tITEVHbHI2aHNtOHpfa3NyQklkZlVsTk5OMlVhbU14SlJTQnAtNGRiMTNqa3JqNnp6RnpiVDZTbWpmTERodEdIVkhLNVY2dkJlYXhla1QxY0ZvVnB4aDlYVjZPWQ?oc=5",
+   "time_utc": "2026-09-30T22:35:27Z",
+   "gst": "01 Oct · 02:35"
+  },
+  {
+   "title": "Brent Venables confirms John Mateer will remain Oklahoma starting quarterback",
+   "source": "On3",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2c3cUVjdUZQZHJpc2NGU3BYdmFEWmdOUUktdTFkdVRoTGVDSUtUNEJxSF9xOEdqdFhmNEZCcjM3anVxc1IzaWRhaGYwM21SUFNVMzhwRHE4LXdPQ0JIeFItZ1BrZ3JWLTRnVlV3QVJ1THhOV05lakxoVExXVlVIbHVMM0UzQUoydVFVZUZwSTFmMXk0TGdpaVlJdXFMSFRBSzVfS01R?oc=5",
+   "time_utc": "2026-09-30T22:18:40Z",
+   "gst": "01 Oct · 02:18"
+  },
+  {
+   "title": "Venezuela’s Oil Revival Accelerates as Foreign Companies Return",
+   "source": "OilPrice.com",
+   "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Revival-Accelerates-as-Foreign-Companies-Return.html",
+   "time_utc": "2026-09-30T22:00:00Z",
+   "gst": "01 Oct · 02:00"
+  },
+  {
+   "title": "How the U.S. got oil shipments moving and what it would take to bring prices down",
+   "source": "washingtonpost.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEVDaGlGOWZKcXREN1ZKVmI4UzdiY2FIZXVDMXJDMmRNTGxMeURydXpZNEtEbExOWXRmRUNiRVAzSzZuWS1va0x0akNQWVJHaHctNGJVcm9MczdlTHpOSDVfdWtsOTl2d3pFTFlacUIzQ0NJMzkwZWpRSkNsVjF0Y0RpY0RrYkd3T2M2YXkyMVprVGM5Q05hNVY4TnBtcDgxeUVUR2Z3T2h1emc?oc=5",
+   "time_utc": "2026-09-30T21:51:35Z",
+   "gst": "01 Oct · 01:51"
+  },
+  {
+   "title": "Rejuvenating Mature Oil Fields: Profitable Low-Carbon Barrels",
+   "source": "Mexico Business News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGJ5al9nd3pJVk5MQmh5YWktR0ZkTGt4M04wdHlpSmhwVHlPVVMxR0dGLVNfYkVSUlJZTnltT0dqRk5VZWMxNnQ2dS1EVjlCTU4wcnVycl9Db3BFN0QwNUZUek5EbjBpdGYzLWZUUjN6el9YUkVNZTU3Q0JCSERKMy1yRTlXNmlQaW5ET2IyNEItWTF3S2YxTmFvTjBpbUtxVzZTZ2ZR?oc=5",
+   "time_utc": "2026-09-30T21:33:20Z",
+   "gst": "01 Oct · 01:33"
+  },
+  {
+   "title": "Crude Oil Pares Early Gains",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzdaLXFnaVViR0hva1RuVHJkVzFRakpFUlRUZmsyUHZHM3h4OG9vYXdhejV5RGlmY2VURnFUQmNoYTk4MW5Jb0Y5ZnpGSkNTR1RwbHRMSkpia2pkVnNIX0dtUlRNR1VoV2FsbnVaSEx1T3gtc01FcEY5VzRjMmtRZ1JuY2djS0pOQ0JVQXNvaWFCeTRSVlRoWXBpWGVwb01SOUNrU3VuM2E4Zw?oc=5",
+   "time_utc": "2026-09-30T21:19:44Z",
+   "gst": "01 Oct · 01:19"
+  },
+  {
+   "title": "Iran War Is Driving Up the Cost of Your Next Oil Change",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHVqVXdzRlYzejRHMkdvR3p4b1NHSmhmblRkUkRQZVQyRW5Cd1E5WUU4eGh0Yi0xY3JyNGktcGt6bzg0RXJDeXFuRFZWVTV1ell1WWlXMC05Rk50SE9nbkp4enFjYXMta1h3T0x3aXU0ZTZreWJBUFM1UnozMmo1TTNiM0dmR1NENVlRdWpYbGhZYXp1Y041ZTg3QVByYVJGemc?oc=5",
+   "time_utc": "2026-09-30T21:14:24Z",
+   "gst": "01 Oct · 01:14"
   },
   {
    "title": "U.S. oil and gas groups back bipartisan Senate permitting reform",
    "source": "World Oil",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDhER2lZOUh3cC1TbTNCd1BySkVxV3hkaFdlYWtaN2ptN0s1ZDVZc2N5UVl6R29PQ1c4MlcxcDNkZm4wWFRNbm9XOEZzN09PS2xha2JwNUZOLTRia3FacFo3dC1yQjY3OFM2bW8wUGg2eHNDOVM3Y1VpRFhaQUN4T2lCVnNIMlh5aE90d05wcGI1Wld2MTk3UTRzNUl3SmN4RmhZNWRhYw?oc=5",
-   "time_utc": "2026-09-30T21:14:22Z",
-   "gst": "01 Oct · 01:14"
+   "time_utc": "2026-09-30T21:13:47Z",
+   "gst": "01 Oct · 01:13"
+  },
+  {
+   "title": "Middle East oil exports rebound to 80% of prewar levels",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3E0R1d4Mk9sTW10bjRQTUlkUWJLN01sNkc1RDZaYUtCM2tkOUU3QllhXzZRM2FaMl9Gc0dkZkpSZTRabktTc3F5YTQwNWN1V0o0ci1YNXp6a3lmaVB4cWI2UW5GdU5vRHZXQXJjQ2w5clZ6amx0dUdZMHNWS2NFX1dHNU54RkhUZ21UZDVB?oc=5",
+   "time_utc": "2026-09-30T21:12:00Z",
+   "gst": "01 Oct · 01:12"
   },
   {
    "title": "Iraq Deepens October Crude Price Discounts",
@@ -24,18 +115,25 @@
    "gst": "01 Oct · 01:09"
   },
   {
-   "title": "How the U.S. got oil shipments moving and what it would take to bring prices down",
-   "source": "washingtonpost.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEVDaGlGOWZKcXREN1ZKVmI4UzdiY2FIZXVDMXJDMmRNTGxMeURydXpZNEtEbExOWXRmRUNiRVAzSzZuWS1va0x0akNQWVJHaHctNGJVcm9MczdlTHpOSDVfdWtsOTl2d3pFTFlacUIzQ0NJMzkwZWpRSkNsVjF0Y0RpY0RrYkd3T2M2YXkyMVprVGM5Q05hNVY4TnBtcDgxeUVUR2Z3T2h1emc?oc=5",
-   "time_utc": "2026-09-30T21:02:23Z",
-   "gst": "01 Oct · 01:02"
-  },
-  {
    "title": "Senior House Democrats demand answers from administration on Venezuela oil deal",
-   "source": "Miami Herald",
+   "source": "miamiherald.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWVDWklCSHZqV1pqZTdYTVhON2lmT1ltSW1mM3hhMHFneVB5RWNtYmdrOXZQNUtMTEF0cFU2YXlKeVROSlYyVzNvVEpObl90YmJnRU1qWjBWOE9iUGpLRjhVOUV1UUZtcWpxekZJT050VGFMOWtDaG1UZ3JqUUdDR0Y5SFhYMHJYOHE4N1kyM2Q1UFhVU1pJ0gGXAUFVX3lxTE9VYlJ3MTlROGRFMWxzZjF3VXpadWJXeXBYcVctZlVDeWt5QmdhdjVPR01qR3VXY0VkRjVzWVRvU1dhQ1BJR0E0RWZ6eUZWMkpFNFE3alR4cE5UOWhDZmZ2eXpud1prRzRXX0t2S3FEbnRNZWRXSTFQQ2hfNTNCVjBWR2FBR2VhZjRHSG5qSlZ4VGZCLTMzMHc?oc=5",
    "time_utc": "2026-09-30T20:52:24Z",
    "gst": "01 Oct · 00:52"
+  },
+  {
+   "title": "Oil and gas prices top concern for Maine voters",
+   "source": "WABI",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWjdSd0NBaVgzS3lYN0FsNC1LYWdxS2VuYTVsTDNwU1NHeUJXZjNNWjh5RnRJOXo5VW1uQjJSTVFQc3QyVWlwc2V4ZHVTdDZ3SVNzTGhRbkZfbU5ybGx5UnJRTmI1TzYwUDc2Q0tUUFRFemFGa1NKVWNMeWVEWWIycTM1Zw?oc=5",
+   "time_utc": "2026-09-30T20:49:57Z",
+   "gst": "01 Oct · 00:49"
+  },
+  {
+   "title": "WTI Crude Oil futures climb past $91 on tight supply.",
+   "source": "CME Group",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQY0RsZm9FeGs0UFAwenpmWHN4dms4NGc3bzhGeDJVNlNLaVk0NlhQbmgwbHBPeFB1Q0pOTmpKZDNPTXVrTWdlc1dUUHM0cE9DM3hKa0lybk13dkRkdkpBNFF5QlNPWG1qNHdCSS1tbEc2cWRRS2JKUW1ja2EtamZ6dUVYQVRGaU9rY0k1TFJ5bWtkM1ctS2lKeEl1dkxXRGdsZ19RMXFQQzZqeFI3U0hCSzRKa29ya1BBblVocTNtdDBXYWtybUh4cW9WUGFjYXV4eVV2bXhicjlidkE5SFdfS1hGMERsRVU1UmkyQm9wYVhRbkhxRFB3Q0s4V3ZvdFBwSC10VWdqSWo0Q18za21tSFA2bVptRVZWM0dtRWNnaEt2RlRUUlM0aXAyUnJqSVVHS0I3VmJmZHIyamRxaHVOR251MnIxUW02amd0ZlFVN2x2bmxMYVcxNTB1S2t0LXgyMnNINlJrNS13dw?oc=5",
+   "time_utc": "2026-09-30T20:49:31Z",
+   "gst": "01 Oct · 00:49"
   },
   {
    "title": "Oil Futures Rise Despite Increasing Flows",
@@ -43,104 +141,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkduSUpYSXpNXy1LVW5tTFN3cmRmWGVzdncyZDNIbEd2aVJMTmYxRTFBSmNJRHFjZ1laWnBNVndLM2lWTHhwTkpOS2VmTFlWM1F2TjI3VG93OVJKTnVheGs0SVozcFh4S05TSURyNlFjQVN1RENWMFB6VGpGSGhOT1pyNHJjMXJUd3FWQlU5VU9LZE9LMVN6UjFFZHptRE5vVzNQM3ZR?oc=5",
    "time_utc": "2026-09-30T20:48:24Z",
    "gst": "01 Oct · 00:48"
-  },
-  {
-   "title": "Texas oil and gas activity continues to increase so far in 2026 despite cost pressures",
-   "source": "dallasnews.com",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZEd2MU44a2tSNlU2dDl3eDlYdDRmX05YRl9xM0ZZR0tJLWd2SEVzOHJsUnN3YXdwaTVyMUt6bkJNQmljTkdHdlFpNl9qb21xSEhwd0dsS2JqUVZ1ZjdNWFhEOUF2eFFtZEVKU1JWTVhXMDBiLWtmQURrV3VTN1c4TDMySkV6VndGb0l4TTFMc0pMMXVJcDdN?oc=5",
-   "time_utc": "2026-09-30T20:47:09Z",
-   "gst": "01 Oct · 00:47"
-  },
-  {
-   "title": "Gulf crude exports return to pre-war levels through ‘rerouted’ supply lines",
-   "source": "thecradle.co",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGdpWlY4ei1ucGFybENibWFFbVEydzRta19wLUx0NDhSOTVnMnVHbi1DX2ZZeTRGMUgzTGU1THVhYmQ5ZVk2U0F3eUFfMXYzZ0ZwZ3MwZWUxNnQ5U2NwMW1zVGtZTWdZQzdIbHc2Rno3VW5tOE1BQTh6YWNFSUxRa25DVXhYSlN5N0ZXTUt5LTNIN2ZFRHpwc3h1bnNpZXNGdGQ1V3ZB?oc=5",
-   "time_utc": "2026-09-30T20:43:08Z",
-   "gst": "01 Oct · 00:43"
-  },
-  {
-   "title": "Oil City Weekly: E-edition for Oct. 1-9, 2026",
-   "source": "Oil City News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjdSclF2R2ZTTXBOTzNaZTFZeGhBclNlVFl6UkJmUDROeDdzdVVWclE1YVBlaGNGU19EbFNBTFM3dWNVX0dhN0RHclFfUlltazFoSmZXZFc5Q0RXNnY4enVmR2pMQlNQVmxtb0FCSXdYNEF5RXdocUlINmRUd1JqMV9hUVF6WXZTd3UzNmx3M0NfTnowWEFuSmstLWMxenhZM0RWWA?oc=5",
-   "time_utc": "2026-09-30T20:19:08Z",
-   "gst": "01 Oct · 00:19"
-  },
-  {
-   "title": "Dallas Fed Energy Survey: Oil and gas activity increases despite cost pressures, longer supplier delivery times",
-   "source": "gilmermirror.com",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU2NMVkhFaHRSV0s5NjlNaHM2c0pPMkdqb0pzZEVhSnNJekdJZEtDeUhOUnJTd3JsR0xuZEdIc1lmYi1HdFBsblNZRFNCanFFMXg4T3FaamQ2c1ZWMTBfVWpWb3N5R0MybFJ2VFpuQ1F3bkhKWEtuZl9rdzFNcHMyTF85RWxzc1VneGVyQXBZRWpQcHVYYnJTc2Z0M2ZzYks1Q3VmTjRCV1RPbXhnZjMwSjJyQ0JfQzBuLUtSeVB3WU8wTE5za05feTV4a3Fmb1ZZWEFHNnIxQlozc2VDeEx5X3YyMGw?oc=5",
-   "time_utc": "2026-09-30T20:15:03Z",
-   "gst": "01 Oct · 00:15"
-  },
-  {
-   "title": "Iran reviews US ceasefire counterproposal as Strait of Hormuz terms remain unclear",
-   "source": "WLUK",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaThNc0taaUlGdVctOE1ROTl5bjZaeUhiNHotaW5LdnFqVW1pdTcxcW5ZcUVfQzBwY2NJOThHQTZ4XzhhU0ZLM05yajVEem9odi1OM29fSlc5RHZKM2JCZlNaUEJ6aVN0REt5OTNSMjl4R1YtWklDMHRWNTFpZHhYX3RmZTFYNEpsSndjTkVsaWZBSG4yREw2Ym85YnRhdEhGOXNXMGpHNDl2MzhuQkNTQVpXMmZSZEFuOHhmZ1E2T1plZw?oc=5",
-   "time_utc": "2026-09-30T20:15:00Z",
-   "gst": "01 Oct · 00:15"
-  },
-  {
-   "title": "Oil and Gas Advisory Committee seeking volunteer",
-   "source": "City of Aurora",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY3kxeDF3bk1GNFBvR19UeS1wcDFXTUtXUHUxZzZ3NnZHOEljeWs4UkxwUWpyQWtNWXBRZlpMMnpTVVVfQmtCaWlYZFhpVEN1RExQMWdFV1JHV3otWVA3R1dGQXpaV05ubnVpVGNibjB1ZTd0bGYxUHpZR1JUbXZMSzU3Q2FlX2xmZlNMRmNEVUxCXzQ?oc=5",
-   "time_utc": "2026-09-30T19:37:10Z",
-   "gst": "30 Sep · 23:37"
-  },
-  {
-   "title": "The Day with Brent Goff: US pulls out of Iraq",
-   "source": "DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUFobmxKbjlBdndEVXNHTmlGajhzYTVsWkNFTlF3dU9WbHc5bEVUWTN2NnpGWGNIeG5ncHdPYVQ2NnFmaC10SUlOeHp3Y0VMU2toSDJSczAxZ0Z6M1l5V3NoUVgwdlhQV09SWjRmTzRianR5MjU1aUptbFl3WmVsWGdaUzRYdDN1TGc?oc=5",
-   "time_utc": "2026-09-30T19:26:44Z",
-   "gst": "30 Sep · 23:26"
-  },
-  {
-   "title": "War Exposes the Cost of the West’s Retreat From Oil Refining",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDZyaHRxVlNKRUhqY2Fjc0N6R3NmUVVJQzY2MUYzX3BfdTRzODBtemdDVC0yR01za3l2Wjl4V0oycDl3UWFzTUs1RDFPWGw3ZTkxT2dtX2RvaThSbWRScmNNN3d2TXltM0YtYjJpaTBHZElqaUQycFpDWkkyM1VqZVRNUUE2UEM4Z2NJMnF1TUZySFgwRFZCQ2FDSGpndTdOZ2RZSzdYNzJrS0prNDdfdg?oc=5",
-   "time_utc": "2026-09-30T19:21:11Z",
-   "gst": "30 Sep · 23:21"
-  },
-  {
-   "title": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
-   "time_utc": "2026-09-30T19:16:51Z",
-   "gst": "30 Sep · 23:16"
-  },
-  {
-   "title": "Shrinking Gasoline and Diesel Supplies Lifts Crude Oil Prices",
-   "source": "barchart.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWNQNGN0djh2RTR4REFWcHB6VTJNaDg2dzhoaEplWTBRWk1td3VCYlRLUTlWeTgtd1FudVlaZ1V0b2hVN1RJMnJ0bmZwb2ZOZ1gyRnFVaFdKcnBPRHY5V2drdWx0MkdkWG1iaDNSTEdCSHFOSEUwT1paeDJJc3g2cW9vLWktdUFMYUpxbk1UNGJMRG05cFJwa1MxeE51akRQd05uaHBnNzE?oc=5",
-   "time_utc": "2026-09-30T19:15:04Z",
-   "gst": "30 Sep · 23:15"
-  },
-  {
-   "title": "Lincoln Riley, Brent Venables among college football coaches who didn't earn their paychecks in September",
-   "source": "CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkJSaVFqNy1ueU1XTndBTVkxb0EyVkFSSnpHa3d2WDRxNENUdkZDWjFiVDJFNG1MLXBzY011Zzg3S0hqRVlXNTNaVHctVGxZZ0t1Q2Nlc0ZpZlI1ZFEtSldzSjZJMVk2Z3pXeDRmSWdvbFVpWWFUVTZfNE9wZzV1RUNGbXQ3d25admxRT1Z4TmMtRURxbEdHOXkwaUpKSzFxbHo1bmhITWp5ZXZBNkJLQUJwaEIyaDNNYWtOck9Lcw?oc=5",
-   "time_utc": "2026-09-30T19:05:31Z",
-   "gst": "30 Sep · 23:05"
-  },
-  {
-   "title": "Persian Gulf crude oil flows have largely recovered. For diesel and gasoline, it's more complicated.",
-   "source": "finance.yahoo.com",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQTNqR1k4M3prWUhHZ1ZXMlFVVUI5cThTSUdyZFJzdklSMU1jU0VteFFJakNuQjl6RW1Pc1BHaklwS3JzV3p2SmpyUkRVWHNCUE53dGxVYlU2U1pPZ0tzRENHRnlGQlh3aFFjYVJRZVF4eXpaQ0M0S1JXNnFUU1RMQkhjVUppaUJvekFhbGd6WTF1bkFKNnNPMXEyQVZadWFrNVpSaHVqb1Q2NXdLMWtrSVNxblY1SVNsajJaeXNwdnNuR2htV2Ixb1dCUE1HVHFrX0NjeTJhN3ZJZF9mbEFiZkNsZFNyTE9mMU1fMGpCSkVmWkNCaGJVag?oc=5",
-   "time_utc": "2026-09-30T19:03:35Z",
-   "gst": "30 Sep · 23:03"
-  },
-  {
-   "title": "Oil and gas prices top concern for Maine voters",
-   "source": "WABI",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01Qlc5VnUzWjlha3ZiLVVFMHIySGdxQUp6Ukp2b2hNZmw4N3F3aXZxel9Ya1h0VERKby10REVsNy1GVWRQRnBlOG5EcjhBbUFTLVJLajdKTjhaYlpXVGM5VlpqVnFtc3p3cXJxODg4TC10bXBPaDF1alY3UdIBjwFBVV95cUxNTlZfdGx3X0sxV0ZQTzQ4Q19fbU5FcEdKdTQ0WkpqYU5vTTctbmFZT2N5UUtxQVBnVFM1d25sTzkxMENXVkEwcUlXZV9JaDhHZnkzYU9fdHlyb3U5aUZuSUNvR0ltb2VJTU9sc2JhV05pZ0JGNlNPbXFmSUhablBhbnBISnJNVmhobktGa1NRVQ?oc=5",
-   "time_utc": "2026-09-30T19:01:00Z",
-   "gst": "30 Sep · 23:01"
-  },
-  {
-   "title": "Persian Gulf oil exports have normalized. Analysts say there's still a bumpy road ahead.",
-   "source": "finance.yahoo.com",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbW0ycnNpNVQybG9YZXJWUHJXNFNFTC1teFFKazZnbHgyM1hLOTFKZkJOWW04YWZoRl9fZl9lM1E2VVdFMk91T3JjMzhoQzVlVTZHeHhRZG9PTVgyRndwcGFHQlJsTHFETlpDenFRTFRjTmxITDd5WnVQOWE1LWhYbExubVNvaVptWU5NclhQVVhpVTJocHl4UW5RMFM2YXVNb3hoaF9jYXJmLXlfekNHS0JQOVFLbnpaQVFiX3kwdmFTbjY5NGtYZU1WVVNhdDdwNmpSLXc5Q2g3NERjb25KdXBKdUt5dXhmMlE?oc=5",
-   "time_utc": "2026-09-30T19:00:25Z",
-   "gst": "30 Sep · 23:00"
   }
  ]
 }
