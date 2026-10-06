@@ -1,146 +1,146 @@
 {
- "updated_utc": "2026-10-06T02:29:49Z",
+ "updated_utc": "2026-10-06T09:23:04Z",
  "feeds_ok": 5,
  "items": [
   {
-   "title": "CNBC Daily Open: China shuts down record 670 banks, new worries over oil and AI",
+   "title": "Brent Once Again Toiling Around $100 Mark",
+   "source": "Rigzone",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDFsUmRUZVkzMkh5dEZWbWhwbjNSelNUVzZZcFNDeUtjOXgteHBkbWtod3ZlcEtQN3hBWHR6X2RhTHFuTjNBbzh2WHc2V2d3SGZjRi05YUJNb1lleTNRaHpGajhEbEpZT0tna09UTGtCUHREcUk2aWR3V0w4UGdUcXU4NDNFd21hbjFWVnByUWNRYXc0T3BfT2pFcW1zdw?oc=5",
+   "time_utc": "2026-10-06T09:10:15Z",
+   "gst": "06 Oct · 13:10"
+  },
+  {
+   "title": "Tanker rates hit records as Hormuz Strait closure persists",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMi15b3dCWWwxclNHOXhaVlkwTnlsdjBNTEN4US1ZUVk4WHZhZ01YTlM0NGw2ZDhoX0lPZm1zdS10ZzQtN3VvQWN2dkNkLVJ1SkppWEpsTVFuQkpIMnlDMG5rLVNXNlloTFEwU0RDd1ZvS21pT1IxVUhhd1c4Z1MzQXJQV1doUXVNbDdwRUtmc3dxN2U2TEpud0pySFFldzJBblNWM2JNSlpyUm9MN3otc3lscjNsQnk1dENPVA?oc=5",
+   "time_utc": "2026-10-06T09:10:01Z",
+   "gst": "06 Oct · 13:10"
+  },
+  {
+   "title": "As oil prices soar, more NH residents are behind on their heating bills",
+   "source": "New Hampshire Bulletin",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORktobEhqTlY1YlRrd2pXWlFCaXlwN0lEcXlsZEw5X2hkOGtYdlYzZFltLVQ1UjJuT0JxaW5reWw2N0R3azhvWnp3RFRTWGk4cWc4SWJLMXk3MXJ5RjVrSWZ4S0YtX0tFYU9lYXdiNkZTc1h3WUo5ekpCSDBfTFZrSlNZVjJ5UE0tVnJxSnFXUkZZUkl5TGdCUjhmeGFESmxZRWxUVUdSYU5hZFBQVWJjU0RQODNXUQ?oc=5",
+   "time_utc": "2026-10-06T09:05:33Z",
+   "gst": "06 Oct · 13:05"
+  },
+  {
+   "title": "Opinion | The Science That Has Oil Companies Running Scared",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmozMFg5YmY4dW5OZmF5ZDlSS0FHdWdEVmxXcmxTTmJEMTJPMVRRUWtINU8wOWd2T2ZLMUlVUWtuZ2FXekp2VjRFN0NhNXNIMDJKc0QwWTJvZy14VjJpWDZiMUxhMkFiSnQ1ZnQ3bFNreHVZM2E2UG5hQjZKUGpjSw?oc=5",
+   "time_utc": "2026-10-06T09:01:51Z",
+   "gst": "06 Oct · 13:01"
+  },
+  {
+   "title": "At Least 50 Iranian Tankers Are Stuck in the Gulf as U.S. Blockade Holds",
+   "source": "OilPrice.com",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/At-Least-50-Iranian-Tankers-Are-Stuck-in-the-Gulf-as-US-Blockade-Holds.html",
+   "time_utc": "2026-10-06T09:00:00Z",
+   "gst": "06 Oct · 13:00"
+  },
+  {
+   "title": "Blumenthal calls for more federal aid as heating oil costs rise",
+   "source": "WTNH.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbmtOek53eTZVbkJYMlFnTGJRaXRoeVhYOHA2YU0xM3ktMDF2TGlXQ3NHM1UxT0twZUc2VVgzVlBTU0QydU5IaWZJN0lmcGkzc0prR3QyM254M3BsM0kzZDM5QVRHUlc2THNXUm9QTFR6TGpJWFU1RWF3eVBBTDBjTmxVMHZIeE5IRk1qcU5SaUNaSE5QcmtpRnhxc2ZiaUhBR09VQjMyRjBycjd1RUlQNQ?oc=5",
+   "time_utc": "2026-10-06T08:57:40Z",
+   "gst": "06 Oct · 12:57"
+  },
+  {
+   "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmktOFFCVGpmQ0ZmYzlyR0lweEdoVlQzcWJRNFlOeDkxOU9ZUTJ3Um1Yc29GcXZOUmwwTVJQMF9hMFY0SzZmUzdDby1GWjJqU20zYXhqY053NGRTN3ZOWGJZYUVvWmVwYWtneFNGSGxjM1hlekRqY3EwUUktWnkxdHJaUjBXbG1yTHdOcUFJeHNPM3EyZmozQWlyT0Z2TnhYVUlwaXgxTXlNQXFsZElWUkFNODk3UdIBuwFBVV95cUxQdEd0eTZMTV9jS09hdVNHVWtQX1hWeUJyYlhSTkNUaVoyZk9aVGs1OXF5Y29PcWtPRGtybF9hcFpReXRyekFxWjFyU21LbVpPMV90emJ1VkNRdXowUEo2aDBtWHJubDdQVF9tcG1PbVA0UnMySzVwVXZpUW9NWExkSVVXWTF4OVhkZWJvWnR0MXFlNkJqRWxHZ1FpZ2M1MUFBYlB5NjdPV2l6cGVfZDhJRTFTWFVoYXBWN2ZB?oc=5",
-   "time_utc": "2026-10-06T01:12:00Z",
-   "gst": "06 Oct · 05:12"
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSU9JOVEtYTVfUWdRcWRnamoxYmZCVzFGOUtRZTBZMHlzbG9OZjJqbExQZmF0YzdaSEVlWTl2emVPOHlPWFRvbndBN1pyeW5ndDhELTJkUWZ1bDZFcjdXaEJUM1VhODd5aHpGdk9YS2tnVkxJTkRwVGoteGRTdHppVG13Z2fSAYoBQVVfeXFMTzdyN1lscnMtaVl0RU5aZVh0N3NKYlJoUDRPSzZtOTNTdDZWY1ZCM01INFhiWVhjUTdxTDBldUh1M05tZHlCNjdwdC1SZk51b01Xbkk0bkhXekZ5NTZhS1M5OXdwVEtnekdZT09XX3J3Sk1MT09ZZm9teVZjdVRFaUJ5a1Z0cllPc1pB?oc=5",
+   "time_utc": "2026-10-06T08:47:30Z",
+   "gst": "06 Oct · 12:47"
   },
   {
-   "title": "Oil prices slip as traders weigh strong Mideast exports against Gulf tensions",
+   "title": "Oil, fuel supply buffers are thinning as Middle East conflict continues, Chevron CEO says",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5",
-   "time_utc": "2026-10-06T00:39:00Z",
-   "gst": "06 Oct · 04:39"
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWJWU2xXSFpjTHEtWi1hZUZwNnFaWWk0OTVoNGJYWE1wdHp3cFdVWXdibnlUdWV2MmhhakJDWV9fLW1ZSDNEZ0tCZlRzaVRWYlVFbFNZa2poZjB2ZnVVSVQ1emFNVnFWUVJmYUptU3pYNGN5MzQ1UVVUSjlLeGppcHM2THJIbHNCV2FPSmhPREZMdWY1aDFzZ084SUJCaTA1WTd5eDRhQnh5U1BON01wSzltLVFsbXpva3JieExQb19jYTZiYXNpRjJR?oc=5",
+   "time_utc": "2026-10-06T08:43:43Z",
+   "gst": "06 Oct · 12:43"
   },
   {
-   "title": "Oil price floor likely rising to $70/bbl, ConocoPhillips chairman says (COP:NYSE)",
-   "source": "Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON18tSFhfMjYwalJBYlRUUUhfMHpMVnR3X2NydUo2NXhxSnQ1dFJHN0t2X0psSWgyRjlGWU96eHlxWU10MWI5akRvWXFKME82allWX2VYS0duUFFjYkl5ME5jTmlVMFl3VnV3QW90eUtBUEhuSE04ZWQ4cHFESEZmdmMtQVBtLWhROFFUcE82bVlSczdiQnF3MlJld3JSN3VFeXJ1Nk5pT0k?oc=5",
-   "time_utc": "2026-10-06T00:22:58Z",
-   "gst": "06 Oct · 04:22"
+   "title": "Most Gulf markets gain as oil-supply worries ease, Fed hike bets recede",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWkydkxGVE54UEtQWTNSZkYtLUFMd2REMUdtN0NKWUhuSUNYSnE2VTdXeTJjZEttdkxfMWE4OEZDOUdUSXBmNVZHejBpclljWTUtcXJKckg0N296SVZKVTZiOHpYLUJJQ1ZFU1FteVRZNFA1SEhzVGNvUTRmd1FqUnQ0NWJ6bVpVb2RVSm5GRERxWWFyWTktZmxOSlRidHVQS0J4N19tZTl4eXJzRjlsTE1kS2VGT3hOQUZsejFn?oc=5",
+   "time_utc": "2026-10-06T08:32:45Z",
+   "gst": "06 Oct · 12:32"
   },
   {
-   "title": "Sen. Collins applauds G7 oil release, says it will help Mainers struggling with costs",
-   "source": "Maine Morning Star",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1l4NW1CcTFINUM1Tk5jdzdWTFExbEthT0lybDl6WlpPdVFhUEpmOHNNeG42elc0TVh1NnA2V3JzaVZkbFRiaWp6ZGJBOFpNMkxvOHBhMElVcHFyM1hFQXF5NGtCUU03czRPbVhQenNJcHZuT0xzeWpmaE1LcVczXzYxa0dYY3V5Njc3MElGYkdMRURlcmZDbFh3b0tmbGVlaHdNaERvYWhYM2xCMkR5ZWZVMURxVHdmNWZ6Ug?oc=5",
-   "time_utc": "2026-10-06T00:00:00Z",
-   "gst": "06 Oct · 04:00"
+   "title": "Canada Fast-Tracks Pacific Oil Pipeline to Diversify Energy Exports Beyond U.S.",
+   "source": "Pipeline Technology Journal",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbk1FbDh3N2M0RUl6NmlCdHNlcWVzbzhpOWhfUW9NYU9OYVNSQnBUVTNjdm1IMTM5dFplY1RzSnBNYjFMZkJDaGxMWHZoSFdLdDQ2V01YNkw0UGpmcUdwYWVPYmE4STBuSVpEM0tMeVItekJsSjFXNmk5X0NvOGk0RGhLOUFsMDNPamFrcXBUNGtGN3NjdU5IOG5IYXdYS0FmWjd5NkZZWTJqdnF1eGREX1V3?oc=5",
+   "time_utc": "2026-10-06T08:23:03Z",
+   "gst": "06 Oct · 12:23"
   },
   {
-   "title": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal",
+   "title": "US Blockade Bottles Up Dozens of Iranian Tankers, Nonprofit Says",
+   "source": "gCaptain",
+   "link": "https://gcaptain.com/us-blockade-bottles-up-dozens-of-iranian-tankers-nonprofit-says/",
+   "time_utc": "2026-10-06T08:19:17Z",
+   "gst": "06 Oct · 12:19"
+  },
+  {
+   "title": "Tankers Sought as Iraq Pushes On with Hormuz Oil Exports",
+   "source": "Rigzone",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM0lBS0t3SGgzaHpoN0k5Qm5RdTBVcnBzclktdmE3V0xrbWxURThlUkZHQW9uWXA4aUpnWF9GUVMtclhhdlJzbGZNTzdzNTFVRHU2RTNlZmVHNTFqVjB1TGFiTTFBNHUwUlJkTDBaTGVyWDVYZmhSc2FaM2VOQ2xISzM2bUJJV0psWk04MTQwNUdmRVlDeWhoWnJuOEhmY3prMGxUdV9naTBGRTZoY182bUZ3SldmNDJUUnc?oc=5",
+   "time_utc": "2026-10-06T08:12:38Z",
+   "gst": "06 Oct · 12:12"
+  },
+  {
+   "title": "U.S. Stock Futures Nudge Higher as Oil Falls Below $100",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3I1OEszTzJJODJ2akRVWUllemVFREIwckxfdkdMTEZ2TnRYNXBlbV9uVGZCMjF5aFJHcXE3RFp3RThWUEdIRUdpMVczeGpGZXN3MFFvcnlObF9lbnh6YXdRWXBta2pNTVJJejhEcEJPSzZ6aTZvTzEycG5KaF92eHN1cUhaNUUyalhkTWJ4NGdlZlVENjBKMzdHYUZQdw?oc=5",
+   "time_utc": "2026-10-06T08:11:45Z",
+   "gst": "06 Oct · 12:11"
+  },
+  {
+   "title": "Mideast Oil Chiefs Warn World Needs to Share Iran-War Costs",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDF0T3M2NHgtQ2lLaXE4TjlYOHZMMV9fSlBFS1BZUnoyRVdOdXVlMEFrWGRJREhWWHAwaVc2Q0dvMkVUT294cm1ka0dWcWlQempITnJRajJvZWlRTFFJcmJVLVl0YUFTT1dVT09YNEdFQ3ZPQkUzUlZ6c0ZmX3pLTGZLckZTRkI1VkFLWVhmMlRyZ1hmYXg4ckF1UkRGZGlkekx5SG0wcU9neDlJT013?oc=5",
+   "time_utc": "2026-10-06T08:08:28Z",
+   "gst": "06 Oct · 12:08"
+  },
+  {
+   "title": "Global oil inventories are alarmingly low, Aramco warns",
+   "source": "Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWFMxd1hXVXZFcWhLQ2h2X0IwZzFhQWdMVFYtcGktNDVvc0ZRMDhJLXJ4blp1UHI3ZFRxaVRmQWMzckRad1JWOEwzOU9xZjMyb0V5VzUxTy1CdGNkLTVteFRveE1DeEpPLW9OaDMtaVNGTHVjT2tSQTZmTHNuaUhPQkoyaTlab2ZCdl83S0dFeHF4ZGZ0V0JXZ2RsUnpwb215YVUyUDhJNnRZN3FNSlN6MnNfWEZmdG5SRldSSVZ3?oc=5",
+   "time_utc": "2026-10-06T08:06:23Z",
+   "gst": "06 Oct · 12:06"
+  },
+  {
+   "title": "Oil Prices Fall as Middle East Exports Recover, Shipping Risks Persist",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUtscjBad2NrYlFpckhZRUc0SUFnc3YzYjhqenRqaHlUUHE5Z1BpVGJlRjZWaE5BSzZxUWtoNnFoXzg1VVd5QlNWY3RMLVBiUW1QUXNaTUFBMExBMTNEaXQ3bU13QnlfbUJScW5yNUJDQTJ2SUJXMmo3NXZyOTBtb2FNOThkNjc1ZlgwU3JGRkRSclhaS25UQjk4QWNiZ2Y2bkpiMkJidk1LakNnTmNodTVYN0Q0cTg?oc=5",
+   "time_utc": "2026-10-06T08:05:00Z",
+   "gst": "06 Oct · 12:05"
+  },
+  {
+   "title": "Gulf Oil Exports Recover to 81% of Pre-War Levels",
    "source": "Crude Oil Prices Today | OilPrice.com",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVFRUUxqaTZOSU56RmpoWWpUNUZ6MTRXSGc4UllPeG5wSzdzWm9oOG4yRTZHYVp0TWNpYXAwYUg4eU9LV2ZTV0VDSExjaEpIdFdiTUZ2a2Z3S1BUbVBtdy1jc0RiQUx4cFR0V3ZwTlVlME14YW9mVm56NGRQZlZSMzVwWEF4WDBBMTBmaTFNa1ZhQjctc3MtU3h3VjhGenVLZ1MxSGZ30gGrAUFVX3lxTFBnVUNUNnM3alVPUldNQVA1aUlpZURMLUtQblk3dFk1RmcyR1dySFlwYWR0cjJYcWhFbGk3RzItNXJnbS1SUmROeklxUUZWVFZ4ZEwwWmF5SEstVnpqNm11X2hCRTN2Y3pySktveWY2NjFkN1N5ajhxMUNUcjNtcWFHRk4tNVhUVkF5RFFfRERoZWxnQW40blkzQjBmWkpaTzhJeEQxWXRoTW56Zw?oc=5",
-   "time_utc": "2026-10-06T00:00:00Z",
-   "gst": "06 Oct · 04:00"
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0lJOUNOY3UyLXBmTDZSOVl4ZUZBWWY5SkxMaGp2elVNNW0zN2ZhODVwZVpEN3VOU0p6WDhZdWI0UFJVRkdPQlZhNlBXZHItemdnaHhzdkxLQTh3eGFFMVVRUHVzODIzUm10MVp6ck1hYVhwaUNqNVNUS2Y3aTJoTnEyMEV6UTN5Q24zOFJsS0V1eWM1cjd6cFduZTNRYTBtS3gzeVBYZ9IBrAFBVV95cUxQdVMtdlBsWHRjYS1HMXFWc3lDamsxdVcwTnktRlkwT3BCRjdzcWY0VGtMeUltYkRTU1Y2b3BCSUFCR3BDRXBWcTEyMkVNZHFaMWlZcGVmOFFYM0hROGxQbnQzMkg0d3pKeUN2UUdHU3VUeDZ5TjlnNkJraWpnVmJTWlluYmFMeHVzVFdwRlNZZVd6U2huTmZVTlE0aTM5cFllMUc3Qi1MMkRkUzBI?oc=5",
+   "time_utc": "2026-10-06T08:00:00Z",
+   "gst": "06 Oct · 12:00"
   },
   {
-   "title": "The oil industry should pay for climate change — and Congress should decide how",
-   "source": "The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNURTWE5VNXJuUEJ4QkE5YnZMQUhoZlBpNXVtZzd4RTQ2ejV5bTBfQVJsYnBZVFNKSjh6MTdCbnpvTFE5MTYzNklIZEg5NTdRZUR4T1lzSEkxZ0k5SHpTMWlrVWVEUlo4N1hqMTBuTjZUYW94Q1ZUaTkyRmdEcVJkSmlIWjd3elE?oc=5",
-   "time_utc": "2026-10-05T23:59:52Z",
-   "gst": "06 Oct · 03:59"
+   "title": "Gulf Oil Flows Recover to 81% of Pre-War Levels in September",
+   "source": "Egypt Oil & Gas",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEhkN0hzdC1DSl9wZ0JySkhVc09HX0Y3SDc2YTB5MUlxYU5kYzNhdU00M0tENlRHc1BJaXZEVFF1RWd5d01EaEFvQ3dqRGZtaExNbmFfeHJJdS0xdDJ0RGhZSEluakhFY0F1M1pzOGFhTUFWYzdyUkRuSkVtNTNmX1pfcUFGQml3dGxWUzYtcU5ScWtP?oc=5",
+   "time_utc": "2026-10-06T07:42:09Z",
+   "gst": "06 Oct · 11:42"
   },
   {
-   "title": "Oil from South Korea being shipped to Russia as Ukraine war grinds on",
-   "source": "theguardian.com",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdEJySWZxX3JFbzhISTctSHlBaUlRTS1EdG5MZGcxeG9jOER3RnlIYzgyaDMxZXBucU1wNjE1Y3dyd0F2VFJHd1BZdTltWVBDN3pjWTQzRU1aQllMcVktS2lnMGxobEM0ZnB0RkVKYVlraWFJalNPdTlUV2M1b3N5cHk1SXJOTHBuTFhCRGtkd25wZw?oc=5",
-   "time_utc": "2026-10-05T23:50:00Z",
-   "gst": "06 Oct · 03:50"
+   "title": "Watch Yemen Says It Retook Mocha Port as Hormuz Oil Transits Rise and Saudi Pipeline Runs Normally",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbWdGRDJVX0tTZ19RcktNT3UzS1hvSVAwZ0VKOGt4dXBJc3JHOENVdDJxS3NWT0lFZC1YanBOeG5uUEpnRFBjRkFfZ1FuOGRURkVFcEs2amVxT3hjdUpkVi1FZDVFdUhXRDdkamJQM1lvbVZQbjJwVl9HNlR6c2sycS1aZ3VxWWVSU1lwaklybDBCallYTUR3?oc=5",
+   "time_utc": "2026-10-06T07:32:48Z",
+   "gst": "06 Oct · 11:32"
   },
   {
-   "title": "Gulf oil exports top pre-war levels as Saudi-backed Yemen retakes Bab el-Mandeb Strait from Houthis",
-   "source": "New York Post",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRzJleVZYM0NHLUdmN1dyUVQ1eWxHMUJEWXRGX2s3OWlFdHZxSGM0WnExYjQ5SDFoOW9iN0JobUxid0Y3bkJleDdaQy0xN25ZbTNGenpvZ3BMak0wZTNjZ2x1TnV1NkxzSWtXU1hZR3p4Y1VCR250WVJKNDN5NmtTSWc0NmlENnBBcnBsWXN2RExCS0t2ZDNuamswY2dWZUNWaEdVSzJIWQ?oc=5",
-   "time_utc": "2026-10-05T23:42:24Z",
-   "gst": "06 Oct · 03:42"
-  },
-  {
-   "title": "Oil prices would have hit $200 a barrel if not for East-West pipeline, Aramco chief says",
-   "source": "thenationalnews.com",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONWpLcDdBdTBqSC1GbG1haXpRTlFNMkRBVkljck5zM1NMRHh3clJkZjZrbFdoT0kyalhFb25NTUh4VFpxbERLRTdNbWNwc0RiaFpkRk0yN0loamZTOHRxc3BUMTYxQ2EtbkF0Tk0xTWl4dUpVdzdON0xlMVNLUzFoak9nV3d2S1RNLU1iNVl6di1JU1ljVE95ODBJNFFMVFd6MGg5Z1JGdW9WOE1NaFY5Z0xXb3VSLTNGSm5mQmpPVWFKaEFvdmpzcGo5RElPNG0xanVNTkxCcG52WE1SeGdn?oc=5",
-   "time_utc": "2026-10-05T23:37:30Z",
-   "gst": "06 Oct · 03:37"
-  },
-  {
-   "title": "Wanted man steals Atlanta police car, crashes into tanker",
-   "source": "FOX 5 Atlanta",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdEVWcTVhRUN0bFI1T1R2b1NUM0ppcEFWRUhTMU1URjluVnY1SmN6d19FbUMzMFNHTU9Lak9ueWRwbVgtMFZiMkQ1dk5hUUxWSmtyZWI2eENTV1lsSzIwaUo2TkZmZVpvZlVmYVBycm0wOGJTdjk2dGpwbmpuT1ZtMmc5OXNpdHRLVDJzRQ?oc=5",
-   "time_utc": "2026-10-05T23:26:54Z",
-   "gst": "06 Oct · 03:26"
-  },
-  {
-   "title": "'Our community needs it': High heating oil prices drive more Mainers to wood banks for help",
-   "source": "newscentermaine.com",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOS2JUYXNkNGVDQnd0Y1h6MFNkM2dkZlJDeHV6VV9oUnhsa3NRN09ScGlXNjdSWjhNRHd3Y3lmTjVUaFJnR0UwRmxBdzd5QUZSNnBNYl9UcW5ZYkZ2QXVqLVFyMVhNTmRBM2ZBcHJPRndNVFVuU0JBTG5FWi1tbTJpVHdPeVJ5NEo3b2xBODVQU0RIQ3JDaEZpR2F3a2d5Tmp2Yk9OSGs0VG9PQ1AwM1VORkpISUdKVnR0Q2pJVVp3VzlEemkxSmJlQmpydU9UYVo1d0V0X3dCRlVXTDVrUFQwajdrbzJ2RVpycG84S0FlUTZHTTlxWlhTV2RidEhJbU1jTHJyZE9zYjdLSkhjUnExZ1llbUxZQQ?oc=5",
-   "time_utc": "2026-10-05T23:15:00Z",
-   "gst": "06 Oct · 03:15"
-  },
-  {
-   "title": "Two Tankers Hit by Projectiles in Strait of Hormuz, Third Threatened by IRGC",
-   "source": "IranWire",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNVVNNWVZMURsT09oT1RVQ0k0eHJ4dms3OWdnSmlUVWNsNGxlVmpoemhPR1hHNlNxR3pROV80aXhqeFh4X0lyLTNqV1lyNF80TGhIM0Y1RzlLVEZfMGFxU0VQZzRYQnpSOUNCQW9sazVWcno4VjNFeWpINlVDcnNZTDhJYnB1cHJPZ0lYTzdyY0ZHOU5manZSWnBlckJ0di1KRTJiejNxYzVJSEtJUVhzVWN3?oc=5",
-   "time_utc": "2026-10-05T23:03:45Z",
-   "gst": "06 Oct · 03:03"
-  },
-  {
-   "title": "Former Energy Secretary on why more oil is not solving the diesel problem",
-   "source": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VYTg1MmFTdlhXcE8zcGJ4VnVxemxnX2RhZXdUd2taSFRrZTFJY2dCT2NuUzRTOThVaFlrelBOUzNpOWk1aThxQUZhQi10cG83Y2h4MzFaZlFvc1U?oc=5",
-   "time_utc": "2026-10-05T23:01:55Z",
-   "gst": "06 Oct · 03:01"
-  },
-  {
-   "title": "Iran’s oil minister resigns as country’s economic crisis worsens",
-   "source": "theguardian.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGFMcUJwTDBpZnh0djlPVlU4OHBVWjA5VTVjSW5IOWoxdDdSVmQycWVlWmp0ejNoaHdWakRiZE5pOW1KS1Z0R1lvMW1oMk5xRUNqaFZHUUFTd3h3MEppSzNsTXl0ZUpCc2FvODdvdHR2Y0p1ZHdjbHZwTG04SnlxaHdISG1tVHVhdWV3X3ZRUEM?oc=5",
-   "time_utc": "2026-10-05T22:58:00Z",
-   "gst": "06 Oct · 02:58"
-  },
-  {
-   "title": "Supreme Court grapples with case on holding Big Oil liable for climate change",
-   "source": "The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGhHVFJhcnFOdEtFUWI5cXBPM0g2dVluMmlkMDIwYURBS3dqVnJEdDZQS05vWkdZMGpCT090Z09RVTQ0d1k0OFRsZHQxOWh5T1ZjT1hvc1dHdTA0NHJIaktsMHRiTy1XbUNOdG1wOUZNS1RrUURoSDcyRkFwcjdpM2dBUkkySnptVmNheVQwTlE2YXN1TGYxVS04azRXaDN4OWtsajhZb2k3T1R0Sm9pLTZlRWw3ZVVFWlJRWUVISQ?oc=5",
-   "time_utc": "2026-10-05T22:50:34Z",
-   "gst": "06 Oct · 02:50"
-  },
-  {
-   "title": "Supreme Court weighs local governments' climate change lawsuits against oil and gas companies",
-   "source": "Santa Fe New Mexican",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQlhyUFl3SjRKOFljc0FJUHhtdEN6YnZpMXJUMkh1SFFEcDdiSnZFSWowTy10ZjNMd1psVnFTeVE4SXk5QnFOaGFRUS1waGdIdWJJdW50Y3Y4YVJqdnhnLUhLV3pHMTduQ3VCcWU3UXUyVGd1ZmtwZUlKdmJuZlZxWGh5YVpWRjhjSHZjOWJNNEZRcFVLeWJOSVctZnFHT2toaEVTSm5DV2wzdmYtVHMtbGt2aWV4X09MZS1YdFN0WUxJVW15RzZWTGJZQUJUTTJSQ3ByZm9NeDJBNnJoTmwyNG9wd1RZdjBtQVdOODRaVWllT1NXMVhIMUtOdE1BaFJzUE5JSlYwMU9YWDU0V1FIOXZLbkRJNWc?oc=5",
-   "time_utc": "2026-10-05T22:45:00Z",
-   "gst": "06 Oct · 02:45"
-  },
-  {
-   "title": "ConocoPhillips' chairman sees oil price floor rising towards $70/bbl",
-   "source": "Oil & Gas Journal",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNS00R0swZm94WUZCalNGbjQ3T1NaZGRpRGtuWjZTekVvNWRLQ21PZVlrVlpFc1pTTk1yQVE0a0pGdmNka3V6aElxaTRub0x2ZmxTNHFKMzdkWE5hbHFKY0dXQWROV0IxRVA5eWVGQnNRcDlBSnVTUVd1eHhtc0g3bjE3bmhrTUl0cnUzc2NNMkVVVnNhS09hQ21YVVNnX0VyRkVqQ0dRdWpQMXE0OF9RN1FPdGhQZGR0NXp1SVpSbWxFbVhHZ1pBdE5xZk9Ga01D?oc=5",
-   "time_utc": "2026-10-05T22:38:57Z",
-   "gst": "06 Oct · 02:38"
-  },
-  {
-   "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Dives As Saudi Aramco Cuts Prices For Asian Buyers",
-   "source": "FXEmpire",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMHVWTF9wTGpKZ0F1a1hMdnZjZHJYbnhxcHJWdjE5bzc5cjVOWWhaS0JwcGlmR21FTmRXS2hZcktqUFVRWHNLdHlDMmphUUpFMjNWNDJmdUgwbXdwVWRqWDJ0T1o4MDY2ZU9YT0hjaDhqaHJ1VDJ4bUkzNGlFT1c3ZDlZYTRoemNmSHNtbjVuZktaTmlKbW95TjVlN2taZ0IwOUdNZjMzaGwxaUxmVjQ1S3hHU0t3cEZZRzVtMGlLQUhBcWxhcW5yZEd2elhFWUJwTEh2LXpwMk1hcEIzd1E?oc=5",
-   "time_utc": "2026-10-05T22:35:26Z",
-   "gst": "06 Oct · 02:35"
-  },
-  {
-   "title": "Iran ramps up Strait of Hormuz attacks with 11 ships hit in a week",
-   "source": "TradeWinds News",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0NjSWNxaFV1ZF9aSUk0bmdwTU9VTWZrQWlJYkd1a1kyTDdQNzFqT2Nxbjh1d0ZvT2Q5YlVlWkp1c1BhQ2NFcDVZSlA4d0I1cDhCNWxMcFZ3blYwdXRWY01PSEo3RlhrQzNUaWQ1U2NFcVlFWGY1VmtabW1NSHpGSUxDQUVQZnRpeE9vcm40bkRoR3RTZlEtdWc4Y2tEbjlya0lvV2ZPSnRvdzBkZDFzeE9YNjNKdkZWblFNYw?oc=5",
-   "time_utc": "2026-10-05T22:32:09Z",
-   "gst": "06 Oct · 02:32"
-  },
-  {
-   "title": "Delays linger along I-495 following oil spill",
-   "source": "WUSA9",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRm1sbW55YXN6SUhQLVNRRDY4aUtFdzFRY3pnYWFEV0tJVW9vUDdzeVVWaWZVdHNDN2otenhxTEVHMjJhOVZtU3RtUExTSTlYZWZVX1dzSjJaUzM2cnRRUDY0NTFCQnhzeHJMRE1zdkpjUjR2RUVHTl9Lb3BBVUJnekhrRmxENVRITmpwTG9wVXV0eWNQdTJIUFlPbXd1QnJ2aDRCbGFYSVRNb3VjRnIxM0phVVQwQTctdFR5OHhOOG1BTUZRYi1oWEZWVDhnc2pveHVR?oc=5",
-   "time_utc": "2026-10-05T22:31:00Z",
-   "gst": "06 Oct · 02:31"
+   "title": "Asian shares mostly advance after Wall Street gains and oil prices fall | National News | 2news.com",
+   "source": "KTVN",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWERheHBlendMYmkyM3RBRm5yNkNvSFdrcHdTY1c2X0NucUU2cGxQZFRNR2JjRG5Va19Sbk5zYnF3UGhiVmg4ek9DdEJLQkxRWmVHN3RiRXFzb056QkZSSHdYNmdncHhRcE94d09lWTRSRE5KajBqeC1CdEtyNHJwWmZlV054VFZLaW5DVmpQZVRNaU80YXZBX0pCS2dIcHh2Ny1TQUpfbGN5T0lmSWhzdno5anVWbWVFekJCX1RUdTMyOHhKbE9CazdUZTIyY0Raa0RWMDNrMEFnTlFXTzNYVnBNMnFfMndNUE5z?oc=5",
+   "time_utc": "2026-10-06T07:15:51Z",
+   "gst": "06 Oct · 11:15"
   }
  ]
 }
