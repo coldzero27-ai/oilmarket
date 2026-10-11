@@ -1,146 +1,146 @@
 {
- "updated_utc": "2026-10-11T13:27:54Z",
+ "updated_utc": "2026-10-11T18:25:45Z",
  "feeds_ok": 5,
  "items": [
+  {
+   "title": "Brann Dailor comments on Brent Hinds’ personality and history within Mastodon",
+   "source": "Chaoszine",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2g3NXpOVG9KSFNjVzY4REJJcTNvSEVRN0Rja0lMekxkNTVWV0tTMGpIbkdaYnA3MkNrWjFCQ1o2b2JJUFV1bTBGZFl4TEw3ZEU0WlYtNVpDRVVYQ2JPX1R4RWdPQkxKTkxqQXF0NGpYdmdfbjZsVGl4MXp6Vm1JcDRqQzVQS05nZmhjdzVUd003dDg2VzlFWVhFRFlnTlBS?oc=5",
+   "time_utc": "2026-10-11T18:13:40Z",
+   "gst": "11 Oct · 22:13"
+  },
+  {
+   "title": "President Trump lashed out at President Volodymyr Zelensky on Saturday for striking Russian oil refineries. Zelensky said he’ll stop — if Russia does too.",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdDBLaWMwZGlqazI2ZDFIbTdEVnhJNlhaMV9yWWhGTmNLZzRfa0oxWVlkU0VOVmROc2FuSnc2eXN2QnZJWnFTc2w3UVJLaTFoaVZsM0pndzJ2eWQ1QWF3bEhkNmRTYTlfVkVhMVM2QlhoUmtHX2xLQ1hhcXhJaXJGNGQtMHkydGsySDlwT3NCSS0xMXlSMnJxNjJtZXhVMlEyYjBZVGtuTnN0LWRZZzdWX1dKblBTNEZqZ3NleUdoX3dLQ2xoLW55djdxeWNoV25nN1hn?oc=5",
+   "time_utc": "2026-10-11T18:02:47Z",
+   "gst": "11 Oct · 22:02"
+  },
+  {
+   "title": "Second Super Tanker Strikes Sea Mine in Strait of Hormuz",
+   "source": "WANA News Agency",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTlBmLXhuZnM2bndSYWdsNXFqelFSaU9GY3JZRklwYVFnbE9saG1LUGY5TFJZZGY1b3hMSjJoaWNra25aR3FJU0NvUXJjczJKWDJNeWZERHI5ZU05UmhsWExoZlZRZFN3SS03QmVZTmQtZnFyQVA4WVZBUVVtdmVfUDVR?oc=5",
+   "time_utc": "2026-10-11T17:53:06Z",
+   "gst": "11 Oct · 21:53"
+  },
+  {
+   "title": "MASTODON's BRANN DAILOR: BRENT HINDS 'Got Away With A Lot Of Things That Other People Wouldn't Be Able To'",
+   "source": "BLABBERMOUTH.NET",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVkxzUE4tcEl3UXQxa2FOaW1mUkZNNEpEVkpnLWdxRmdrZHhyck1lMWlOTFpsN0xDXzFKNVdTcUxkYXZrelR5alFsMjR0Unc1NHA5WF80eGc3dkE3SWJyazh0WFBKQVNNM1BoS1NXd29qMndsbF9nVWcwWW1NeFBiVHVYZUdSSlF2ZUVMNU5tUjVnNXRnSmdtbGJfR0tEc1Z2YmFwRXdJRWh1VmtNem1KeHB4QlZfaElKRmh4bUF1VVlScy1BaFRZaG1BYw?oc=5",
+   "time_utc": "2026-10-11T17:50:31Z",
+   "gst": "11 Oct · 21:50"
+  },
+  {
+   "title": "Worcester teens charged in $2,750 used cooking oil theft from Beverly restaurants",
+   "source": "MassLive.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcERFRGdHUDRrc09oVVp3Z2JYZWRXSEFHQzZvejNsc3UwTW9JNi1iM240VHNwd1U3Z25PQ281SFFPbnZxWWlHa3dSMi16Ukc5Tm00dURITTF2dmtUVVctT3V6UnBBeVNSOHhzQWtLVkd2cTFGODJUX3ZZd0VGRVVnMFlydlNRRUR6SEJiXzFNRVg2ZkNtZndMZHhEUHB6MHRKZjhhSk1CR2F3V3Bpakt0X3I2UkN6N1lJOEF4WVllWEw2M25IRW5EMg?oc=5",
+   "time_utc": "2026-10-11T17:49:00Z",
+   "gst": "11 Oct · 21:49"
+  },
+  {
+   "title": "Iran calls US response on Strait of Hormuz insufficient — Anadolu Agency",
+   "source": "UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXRIVWVDZWtRSkNqdkVFRG9yM0VBb0pxTDR0T1d3N1ZDUkQxYTc5VlQtNjk2WHc3cGh2T2FoUU41dHNONXZQUXhIRVUzeGw3NEVRS3JHSmdSc3VqSmhqeUUzLVNUaFdlb2dwcW9PNW1TNzgyVV94VGs5TXlEVWhpbTQ1NkZxVmxVY1N0emZGSGo4ZFZ0ajBwSjBfMkRQOURYV3RoNTc3dw?oc=5",
+   "time_utc": "2026-10-11T17:41:36Z",
+   "gst": "11 Oct · 21:41"
+  },
+  {
+   "title": "US Authorizes Release of 4 Million Barrels of Crude Oil From Strategic Reserve",
+   "source": "Egypt Oil & Gas",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1BvYW4zeHVnM2Mtdng1UHpUcVN5TFFBMnJQR1hQTkZCUmM3U1ZwNnRySDJHc2YtcjF6N0hSeGx2Nzl0ZG1WTzBnYkN6N1I4REllRk5hZFRsX3ZwbDNJTVBfZEFtWThwLUVLSUxKdTBFblFQNXN6QTRHeTU0MHc5c2syZWJzMkRNck0wODMwdmRDV29GM2FZRGMyT0VvTWp3a0hoQ1VsOFVoc183dVE?oc=5",
+   "time_utc": "2026-10-11T17:37:16Z",
+   "gst": "11 Oct · 21:37"
+  },
+  {
+   "title": "After Hormuz",
+   "source": "eKathimerini.com",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lYUtRTWlzd09iRmhlbHVXa0c5OTY0MDMxYlNXNklzbVZtU0ZOaHRmTURpb1Byam9RQWUwWHBfTGdaN3pYN3RLVFJrZWlVMmsyTlZVLTI2Xy1VU3h1cFZUNURUNHZONmszcEE?oc=5",
+   "time_utc": "2026-10-11T17:35:37Z",
+   "gst": "11 Oct · 21:35"
+  },
+  {
+   "title": "Saudi Arabia, UAE Increase Oil Exports as Hormuz Shipments Recover",
+   "source": "Egypt Oil & Gas",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjNlMWZxdUxhRWdwSWs3X1RFcGJ4Q3hjVmVtaEU3ZkJhZUozSDZkSll4QkJ6RU50SmRidklRS0Jndk9hRVRKX0dxMmpHV19DRVJZUjRDUEdrOVl5WVBuSU80c1JVVTJFQ2NXYnExM3laQXpPUkhDLTNISGVxSnRpNXlnOXVHTTFFeExrd0xfbGxvMjNqVy1DMDRMOWQ?oc=5",
+   "time_utc": "2026-10-11T17:33:14Z",
+   "gst": "11 Oct · 21:33"
+  },
+  {
+   "title": "Iran says US response to conditions for reopening Strait of Hormuz 'insufficient'",
+   "source": "Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX2dFVUVrREU0TTVzUUY5MEthcklUWjJNWWc1SlRmQ3g5Yy1pQjRYUUNhQWNMSWlRZ21XbFBMVjlIYzJnbzRmTDFGY3BxSkxTUzFoOUtZaWRKZFMwUV9UaVEzRmhRTnYxUTNabHlnS2NLZGdLWWg2dHpoWVNFd2NlMHk1VnFxWUxKS3c4dks4ZGI3M2stOWdlWFRGTlBrMWt5djhnbGxkN2drSEllaGZSQ3VEeWJlOURfRnpQT2t1NU1fUDl4Qmc?oc=5",
+   "time_utc": "2026-10-11T17:27:39Z",
+   "gst": "11 Oct · 21:27"
+  },
+  {
+   "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzNObGJkNVppUXVIMm5XeDBhZGdpYkxwcG1La0NvOEJqMkpBNmk2NFVhNmpMbFJ4RUlxWTE3NzJJYy1fSDFOOXpKaG9iZENkVVFPWlVrVktTVVpYOXdqcF9obF91eVpKamk5enR1RnZFRmE5ZFpURXVPbFdsYndKdW1NY0g?oc=5",
+   "time_utc": "2026-10-11T17:19:36Z",
+   "gst": "11 Oct · 21:19"
+  },
+  {
+   "title": "Ed Sheeran talks a ton at Lucas Oil outing – just not about Macklemore",
+   "source": "IndyStar",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWElPaTJnaV9tb2FRLW9QLWFGRmZla0k0aWx4QzRNNjBWLThXWmkyUW1xYUZRZ0lDUnBFUTktUkRkYmF3MWRoUFBnN2FvNTlOamdPb1Q3am45RkNIVFBacFZPXzlCc3U1NlA4Y04tbVhXUTdnaXVYdVRaRGN2X2FXb0JfT21xYnBoaUdNa2d5VGNVYjlNVVgwbi1OSzBhamQwaUF5QVdUM25IWk1qWDdacTRiZXFCdjFvWjVobnZkN09qSTY2ZzNYUThiUGg?oc=5",
+   "time_utc": "2026-10-11T17:19:00Z",
+   "gst": "11 Oct · 21:19"
+  },
+  {
+   "title": "Iran says US response to its proposal to reopen Strait of Hormuz was 'insufficient'",
+   "source": "GMA Network",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeTc4TUxFcTR3YnFkM2xsVW9SRy1RVUdDM0hJM1dsTmZobS1JUzJ3eWZPUGVVN3JKRFpqeWF3VUF3d2oxc3cxWXRlUG5namJJeExVekUxRG9KQzBKcmFMUnp3VGxWWTA4d0hCbG1wckZYdGVmN09LZTAyZUx0UkF1SGlfVXJmdkxHaHNwVEpQcXJ2c3pJcGNoRkRackw4b1Qtb2t2bnFVMW9wbjliUUdsNnI2R00wa3hZRmZfTWJ0dlBLd2dDNl9PZlg2eXIxbkJ0cWRqeUl2c1lTeTJzZkHSAeMBQVVfeXFMT0NibVQ0YUNzZTZOb21QSGxKRGV0YmNQVk1WTzRWeHZxOFNLSVBJSHkyTF9pZXFKaUFTV0JZODdwaHU2X3Y2Q3ZTOUEwaW5WdDhYUktoMkNaWUhzUG5yQlVVTEZhSWNWbjVSMnZKb1lsV0FOYzZXS2s5VWw2NF96LWRnV3IxOGwtYTNRREIxN1NRTUNla1Ntajc0NjlCOUV2OXJVY3R2Z3N1V3RDZllTY0E5eTB2a2F5aFZCTmcySHF4eVE4U1d4WVM4QmQydWpXUnRjSFdtRXdTUVhZbk5OSmlDelU?oc=5",
+   "time_utc": "2026-10-11T17:13:44Z",
+   "gst": "11 Oct · 21:13"
+  },
+  {
+   "title": "Viper Energy (VNOM) Looks Repriced After Oil Supply Shocks Lift The Sector",
+   "source": "Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUs0bkd5NS1vclBMMW00MVQwNmFmakl5UWpiZ21FYmhnR29iaHV3b1hqZUpMbkJnMU0yWWhxZ1NKRFF5b1FEQ09nOUg4QmdJNjVXZUQyeFJqNUVZX1gzcW55Q1FWelU3dEp1YUMzdC12YjBMQTQ4NEVpN2toTXhuRWl4TUY2SDBJalc2WjExd3d5UEhGYVZ2XzNjbm1mdHczTUY5Xy0xM1dMN0hTOWZRQmhmaXowLVFjbVRHY2FSam9FcC1JR0tlMdIBzgFBVV95cUxQYWp4N0FxWVhDa1J1R0RjSmxQQVZ4YWhEUC1ER2ZYWW1FT2R0dko2VTN0bDc4TTFlUlFOVmFyMy1iTG0zNW5BRFp1aHNBbXpuZ3dHWWJMMHFlX1ZpZk9NUUVLbkt5WlhFNjhoc1ZKVGl3SnkxWm1fa3R1ZzBHTkFvVHlCQ21abjdzbEo2ZkxLaHpFTmRUUXZhb0ZYMzRkaFZQNDNvOWhhZDNSSjU1UE4wYm0zc0hkOXVncUtmaU93ZmxtZ2pXRE9jRVAtUVRVdw?oc=5",
+   "time_utc": "2026-10-11T17:09:48Z",
+   "gst": "11 Oct · 21:09"
+  },
+  {
+   "title": "Iran steps up attacks as oil traffic through Strait of Hormuz falls",
+   "source": "mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ea1VPcUlLRHVzei1hblRoT0g1WTcybFJZNEhMci1aWkI4UGdTdm9TdmsyQjN0UFJVeC16WW5peFBSRDlGeC0xckw1RkJHSzUydVFrRDBTNWxfM0RVeHExazJFTDlBdllQQ3JrcFhOUEtJYUZvcTI4d3ZCcXA?oc=5",
+   "time_utc": "2026-10-11T17:00:20Z",
+   "gst": "11 Oct · 21:00"
+  },
   {
    "title": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
    "source": "The Washington Post",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcXdpYUp0cGR5eTE2V2RveDh3WmtCbU1xbm9WNTRkOUIzVTI0bHhrX2MzaS1CVDZ0UFNVVXRLYzVEbXFvVG9uNzFxbXVQQXpTWTR3MGh0UzdJTTdmRFNGRFd0TW1GakJHOUxIV0hpUmdIVXIxR3h4WDl2em5XXzdialowdzFTQk43TjB1QlFERTJTOFdhN1NoWGpyRWNDMkNCSTlQQnVpWHVJX2NRbkRZMk8wV3pIVUZpaWFRd3VTeGx0bC1maDFMdE1zTkRsdHdzY01xS3Nmcw?oc=5",
-   "time_utc": "2026-10-11T13:04:02Z",
-   "gst": "11 Oct · 17:04"
+   "time_utc": "2026-10-11T17:00:00Z",
+   "gst": "11 Oct · 21:00"
   },
   {
-   "title": "Your Sunday, Oct. 11 Guide: Five things to do in the Oil City",
-   "source": "Oil City News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjlMZmx1c0NtTDhQRjlpeUtKcjVwRTBVVFlydThEVnZKZUphYXlER2docmdFT0NsOHM2YWJpV1VSU0hpbmJ6QUo0di1sVVM5bG1VYkozUVVWdlZrTXdlRkpfV1JUN0dzcUhWaUZnTEpNV1daUFZiUHE2YWozS1V2emdHZk5FWklOUUtaeThPTEkzRktTX0poY05hNWhWY25VZGlRckpKSEJLZVNB?oc=5",
-   "time_utc": "2026-10-11T13:00:00Z",
-   "gst": "11 Oct · 17:00"
+   "title": "Iran’s security chief accuses Trump administration of oil smuggling near Oman",
+   "source": "Middle East Eye",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkwyY0FrcXpFOE1jclk5V0xONDBQZkoxLWlxdmpiQWdwQVdUNF9rTm5obnhBN0V6Q0Mwd0JlY3dxNjQzT2JGM29LZTNjYV94QXVBV2NaSTZocTh6bG4xZHE3aXVyRGI1YlJIQ25mUktFTGt3b1dxX2xaQ1BsdmYyX3hlci0tNnR5QWpKd2JBTzE5R1dreFN6R0twMXg2NmY4bDJlN2l2YlBuMG9rZ0F6d3d4TWN1dlhSZXNKTFFQTWdUZ3c?oc=5",
+   "time_utc": "2026-10-11T16:57:00Z",
+   "gst": "11 Oct · 20:57"
   },
   {
-   "title": "Trump administration approves emergency crude oil exchange to limit disruptions from Isaias",
-   "source": "KOCO",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkQ1dVZQNHJNWUlKeTV0dWZlUjZQbEEyaXoxWGRtSWpYaGNCZTRyeHN6OVFtRS0zSndfV2tkVi12ZkJZMUV2TG94MTZ6bjE1WXZxVDVZQ1FzWUJQSGRQWUlEN0RiSndCdXNQam5iZUZBa080UTN2RGZoV3BKTDFES2R1cUEydlRJbTlRTVBRUTFDeGgzaUxVaDRn?oc=5",
-   "time_utc": "2026-10-11T12:40:00Z",
-   "gst": "11 Oct · 16:40"
+   "title": "Mach Natural Resources Chairman Purchases 34,514 Shares for $389,000. Is This Buy a Sign Oil Prices Stay High?",
+   "source": "The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOanVBZ3Q1NXhPUzdRWjNIV3AyWFVKdlF1M3RnZnhpWlpHRXlhRi1GWm5QX3BPNW00VVR6ajZqbk9EMlBXWURNS3padU1PUTE4Nzk3ajBTaFUySDJEMXJsc1dIRTJudlR0NUtFa1R2Y2ZpSXJRV29KencyN2luc3cxcGxFeXA2SEQ0X3RaMFg5TFBmQ3Jnam9EVzlYUkhEeU1RUmNuaDNPeWU4cHJYMlBXSXYxXzhFQ3RmRld5ZHNhay1JbmxrcXRwVjhNM3ZZdEtKNVIyZUVHbnY2amM0ekJlSTA5UHc3dVg1Q0tuQ2ZDT3U3UQ?oc=5",
+   "time_utc": "2026-10-11T16:35:05Z",
+   "gst": "11 Oct · 20:35"
   },
   {
-   "title": "Magnolia Oil & Gas (MGY), What Is Behind The Latest Attention?",
-   "source": "Simply Wall Street",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUXY3VlR3Uk1oYlpCbVRVcnVjc2FHV2V6RGdfcGtlQjZ2elJ5T3czNVdNbERhSVZZWGpGcUgtV1hQdnBObjYyTTJocl9HZDFIYVlrYlBEQVZZQXZGTm1iUFprZ1I3ZzE3VkZZVW5WalZ4UjBOM3dNeTRxUEllT0dIbXR0MUU5RXV1eTRMSzhyalFHeXJUVE04UXh3VWVVX0pTSEx2V1dpNGh3bGcwRnBRNW9MQ2Z0QS0zd1JITnZ2REc5X2Jq0gHKAUFVX3lxTE10VVE3Wk1meURYNl8zdlg3TERCanFHYVhwR1Nvc2xQQk1YVXYxN29LUWVBUm84NHJqMXpudGhrYWw4VXlYLUJRLU5PNWRVbnlPNXJjcUdnRGFsRGE2cXhvSTlPb0Q2N29LcFpya1FocXc3eWY2Q1FZeEF5QXNOcnhNWUpNNm9KaWU0UzMyc3BFYml3Vm5LOENKX0xIN0hJUnpRbXZLTHAtNE12SmF5QnM2Q293TnNyRTJFcWhoeERLQ3FQTWZuQVR3TFE?oc=5",
-   "time_utc": "2026-10-11T12:33:25Z",
-   "gst": "11 Oct · 16:33"
+   "title": "Venezuela has 82 days to close 44 more oil deals. Can PDVSA do it?",
+   "source": "Latin Times",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUE1HZ1lNbWZqdEdSQzk4M05ORE1nOFlFUm5qdHQyd2IzSHYyNGl6R0dHYW9mODlfRmQ5RlpRNzZiSjNVTU54Sy1LQ0JieDNJaWxnS2h0NGRqdlZfcWQxSGxXS3d2QWVHV3JpbDg5VXBfR0dZSVhhVGN5QmhkWHpYNHVTWjN3WlN5R1lzSGp1VllCMTBKbTJmbFJQYW5JcGoyRU5PUlJGLXZGY2c4bExZN0RxOA?oc=5",
+   "time_utc": "2026-10-11T16:33:59Z",
+   "gst": "11 Oct · 20:33"
   },
   {
-   "title": "Venezuela Wants to Return to the Days When Its Oil Fields Were Booming—With U.S. Help",
-   "source": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjliTUxQVU5SSFc5MFBRd1hQZnJDTDV6b29xTmhpLVB4UHlEV0tuM1FKOE5HYW5BdmNUYTdGdGpEemxQYmJZcWFGMWp3eXFKOVJ6MnRRZ19DRGc3emloN0RWLWpyaFhnT0ljWDlEU0hTSU5LRUNjV0Y2WFIzWTJRdEpjR0Z4by1QVU56dzVuMVA2MUllTktyYzQ0ZnZqanFBRC0zSHJmc2V4eFZUdkxwRVh2UkxGT2JRcXpHX29UTjdUQTByREE?oc=5",
-   "time_utc": "2026-10-11T12:31:48Z",
-   "gst": "11 Oct · 16:31"
-  },
-  {
-   "title": "US military disables ship attempting to bypass Strait of Hormuz blockade",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnlBdzc1T2VIdlNCdjRBUkEwUXBHR1pBNnVpSVE4RnlCcDJYRFdLYjdxMFgwZVBsVW43Z2s3bC1iUUNRX1NHRl9OSmNITnYxMUFxcU56SlpJRWllbFRKNW0xZmJyNzlpcnJ5dkNiajRTWTN1SUZVY2NCVkxlYWh6UkZEVVd0MHNiUHJz0gGQAUFVX3lxTE9uZmNoOFlhUkdiTG5YSFlUOG1LZEJNOERjMWxfZDZTTjl2QWlNalpBdE9RVWw3ajhMdXppX2t3aGdNMU1kb3RBaW5sanBwSW95T240M0stUEd6Uld4T2ItcGRCN0ZSUDlsT2MtdmpneFNyem9GamlVQlM5NUJtNGk0ZG1qZndPX3pna2pUYmpCaA?oc=5",
-   "time_utc": "2026-10-11T12:20:00Z",
-   "gst": "11 Oct · 16:20"
-  },
-  {
-   "title": "Pennsylvania heating oil nears record price as households brace for costly winter",
-   "source": "fox56.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRXRwcXA0dmxsVmk0NXVaeVdHX3Zvc2lHRlpkVjhFSHE3MDNjX1hUeERUcXFPM1pEVDMzQWlsZEhGN0Y1TkFWNHV4d1V6enRFYWE0ZnNJQTNyMm5KYkpmeEtsOTJKQVI5QkIzRldFV194N2NxLVJPSmFFZmlud3dHb056WFFRWko4WE8talFsemszRmM0TlJYMDJYQl91NHdWVXYxaUZIYXYwUzllRzFv?oc=5",
-   "time_utc": "2026-10-11T12:12:50Z",
-   "gst": "11 Oct · 16:12"
-  },
-  {
-   "title": "Supertanker catches fire in the Strait of Hormuz, Iran says",
-   "source": "NBC News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUJYNU5LQnduMHBrVVl2VlFsbnBib2VvVVhVT1BRUUd1MnBjaHl5Zy0wY1l1c2JEekFOaXZHZk9KWEVfWUZyRUs5Mm5KeGs5aElhWHZITW81WEJmUnRaSTU1OFN6OURTM1U2cXlrV1pyeU1LaDNmRlc1bVc3NEUyVUFiVnB0YU52OUJIOTNhT0J3ZTMtejNzaFlDMUFLanRWanp6S0tFaFNqbE1F?oc=5",
-   "time_utc": "2026-10-11T12:07:03Z",
-   "gst": "11 Oct · 16:07"
-  },
-  {
-   "title": "Mauritania Returns Former GTA Gas Deal Minister to Oil Post",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDUybFk1Y3RuSmtSeVlvWmZRY0NrcU0wSlJZUU1MSkxhUnJvSDlUWDJMWkdiLUZVbzZxc0ZuTFVwZ1VkNmQzTkdOOFVkVWl0eGdvV051dDF6LTNxdzV5YXhQZFd5djU0TXNFNW5HZWxoRE9FbVZLcEVoN2RSbHZrZ0hjeGdMbnB5TlJFOG80bkZRbEFqb1dsU3ZjQWtXdmo3emt5emladW9GREJEdXpB?oc=5",
-   "time_utc": "2026-10-11T11:46:17Z",
-   "gst": "11 Oct · 15:46"
-  },
-  {
-   "title": "Drones Knock Out 70% of Volgograd Oil Refinery’s Capacity",
-   "source": "Мілітарний",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdS1yeUxxdHRfZ2ROR0NFb2FZOHV5N3A3Ry1xVkx2WndjMGxSUE1OSXEwYmU4S3hYUGF2aHd3ZEw4RnRsRWwxOC1ReUQxVjZuSE1Tb2M5bHprYkxwRHlUazd6eU0yaGRWWmg5VEpWeDRNdXB1SUtWUEpQalM2TWZVTmVzNmdBQUZ1amMtTmtHUEU3QQ?oc=5",
-   "time_utc": "2026-10-11T11:44:25Z",
-   "gst": "11 Oct · 15:44"
-  },
-  {
-   "title": "What Arizona coach Brent Brennan said about WVU and the Mountaineer defense after the game",
-   "source": "247Sports",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb1U1NzA3LUJYXzNaQTNrWnV3SkRsRzRGLUNhUWNZMkNFMklzS1FBQTl2VHlhMUFGQ0prZGtXSW1rdUU2TElJVF84X0RydEQ2NFRRbEFSWllRZ3M5WlVnR2hWblhLVE16czhfa0luSklLSHAzVzBfeEZROXJ1OG05OTdac2JJRnQwUFV2aENncU1GWHhqbG85TUc3QzlxZnZUMDFxcnR6WlBKTzE4emp2OEZ3TnNSbnFYald3MXRVTGwtR0piOGcxc2VmQmRXSTh5VEJlNDExTTRaQW1xTWw4eFlTdjJ1Zk5J?oc=5",
-   "time_utc": "2026-10-11T11:16:37Z",
-   "gst": "11 Oct · 15:16"
-  },
-  {
-   "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0ZSVG5SSkJWekROWFF6Q2NVU1lXWGR4c1hzcUZfOTN6NFIzeENYUlJFX0lJb2xTTk1uVE5ITGhPbUJNUlJ6VkJaTmtaNXVYU05uZE5ydHY4bnlUbG5CWXRSTzBzb2ZjdHVhczhKVmpuNEJnZW0xWVlWSXpsRHdGWmYxVjhMMGZNRzhV?oc=5",
-   "time_utc": "2026-10-11T11:08:41Z",
-   "gst": "11 Oct · 15:08"
-  },
-  {
-   "title": "Striegel Banks $25,000 Lucas Oil Prize",
-   "source": "speed sport",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaE1GeGJhN0tyQWVqeU1CeW9GZl9sZ3UtMGN6cngwaFFlMU0yTk9ob2NJTHpBbDZoNnZUWjZTam9RdkN5OWQzWDRSakF0OFk3czZ3alJ2ZV9iYnc3STREQW5EM3dJX2JEODh2S2N0RGZ0eHJYSGtjeVR4cXJRaWhQZ29EcTF4UGN3WlVMeVhVcw?oc=5",
-   "time_utc": "2026-10-11T11:02:56Z",
-   "gst": "11 Oct · 15:02"
-  },
-  {
-   "title": "Eni Completes Landmark Installation for Liverpool Bay CCS",
-   "source": "Rigzone",
-   "link": "https://www.rigzone.com/news/eni_completes_landmark_installation_for_liverpool_bay_ccs-11-oct-2026-184811-article/?rss=true",
-   "time_utc": "2026-10-11T11:00:00Z",
-   "gst": "11 Oct · 15:00"
-  },
-  {
-   "title": "Ukraine ready to halt strikes on Russian oil refineries if Russia stops attacking energy infrastructure — Zele",
-   "source": "Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVTNGbVl5Mi1BV3h2eTZGSlRJQlM0cUluOUM5WjRCSGVuVnZsbERZa2pNaE14VDRzN0Y2VkU0WHRnX3BUVk04OUFaV0pmSnkyUGZUdlk0bkU4VHFTV1pnV19YSWc5TE5KSno3NXBmdEd3WllRYWFiZDBKdEVmaF90TEUycUJwY016YmlZbDZ1MUFQeEtyMGtGaXBlMGdVMTByS2hYX3JkZWVNRFk5R1NYdEh4Mm9OZHpfdlJhdXNSNlpXZ1A0TldkVTlGbkdQQVhaZDlpdTVYNzBvVlpTaWZtRGxaZ2ozclNHRzRFMkNhTExBSlI30gH6AUFVX3lxTE5qUDNpbUtYbkRxODd0YWxEYkxtQ2FMRnA3ekJkQWlfWnZhNzVkWVd0ZXB5LXQ0OEU5c0ZmTFZwUGdoYXZuTWYyckZXOFlweFpVWFVUaFdzRWZJR01UYmNFcE1ObFdrUE5faEdDRUVxdEZaZU9DelhTRE5qSGpacEU2amxuOUJMUUF4ZnhGdFZZalNvbzg1Y1ZyUkJvVGNSSEdtd25vaGxJRFNUbS10V2RjOGxKWW0ySVZiN3hVN29nTC10LVc3UW5rWmRhQjBQX3ljMjlnWUxyalh1Y3pLZzQ1cnlMTjZkbHhBV1BjTXg5bWduMVVqcDVUU3c?oc=5",
-   "time_utc": "2026-10-11T10:41:00Z",
-   "gst": "11 Oct · 14:41"
-  },
-  {
-   "title": "Crude Oil Futures Brace For Volatility Amid Geopolitical Uncertainties, Say Analysts",
-   "source": "NDTV Profit",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMlJNeG95VUhnZVpWaV9NTXpHX3JoV0hDOEdjZ0dPTWpCbDY0N1g3cmh1SFl3RTU5VGpud29CQXFGNFNTWHhLVTkyRDNzcUdxRkpXOVhxOTVSa2VVc1FQY2NaUXQyNXYzTlZmdnp0U3JNN01taDVZaFJYSFFsVWk0UE9uRlN0NGhtMU9CVXV2SUE3OEkzMFB3R2RiNThTSG12WExaejBpUjJlVjhRdlMwLUs2OUFBeUt5YnVCSVg3SFPSAcgBQVVfeXFMTUI1OVhqWGdZLVUyS2YwaFQzYUhMQzR3ZjMwcVFreHJtT3ktWEtRZmV3cWd0MDdhWk9zbm90aDFWTEtUdEZ1eV8tNG5vT1R5Q0RkYTZzQVNJWEl2LU5tWm5MU3BNRmtFbFpBbmRIRXlqUElTeVdZaFB1Zk9jRk9jZ2VWWjg3NWZLcFIySXFzUm5OTzB2ZUNNby1MYTdmTXIta05MRnR2UHpNbUdmdFU3S19pbnlZeFZKWmFaU2EzUWU3amk5YVN3VEQ?oc=5",
-   "time_utc": "2026-10-11T10:39:38Z",
-   "gst": "11 Oct · 14:39"
-  },
-  {
-   "title": "Ukraine Will Stop Hitting Russian Oil Only if Putin Ends Energy Strikes, Zelenskyy Says",
-   "source": "UNITED24 Media",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZk5tWHd5TEVkWHMwNGpjbUxpWFJJc251ZV9haWljbkRfM1JxS2lHcmNUUmViZHAwY0FRMTAtSDRzaTFqV0pfRkQ0alBja1JtaEk2dXpnU1RMTUhldndkMllPVW5pM01XdjZ2VUxrNC1MU1ZkR1hIUTZxdEZUNDdFeDF4NnhMV29rY09MMTktbUdjekU5eEsxUk03VnRyMHVrUWdYYjRwWjROdEgtY0h6enZPVWxIZUhYZ2FfVkFrZmJ1cG1ibkx1by1IQlREdw?oc=5",
-   "time_utc": "2026-10-11T10:28:40Z",
-   "gst": "11 Oct · 14:28"
-  },
-  {
-   "title": "UAE rescues 22 crew from burning tanker in Arabian Gulf",
-   "source": "アラブニュース",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZVVYa3BQbTBkTXVaNzQ2ZXRJNkdhMlJzcVZKbTc1SlhXUjMzYmo3TWQxeHZHUHVrbV9DU1lUMTlXc092eGdEd3lpWVNsZXM1bFllNUQ2ekFCWVBDd2NPS3QydlBwQXpXZkdEMjBmSDkwUGRpVEQtanBYN3hXektrbHF1ZmJLMGtSZnliTDVRNHVhQW50RmI1eXFPM3ZsQUlhZ1YwVA?oc=5",
-   "time_utc": "2026-10-11T10:21:36Z",
-   "gst": "11 Oct · 14:21"
-  },
-  {
-   "title": "Editorial: Give Hawaii day in court with Big Oil - Honolulu Star-Advertiser",
-   "source": "Honolulu Star-Advertiser",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkpIMU9qeVN4RVJuazNpSmdBVVltTmRBV0RmSVBTNUtLeFJMM3pfcmtfbnFaTEdTWmJ2ckZHZENKN2R2MEVJZlB5bEdrSm9UZWdCTjJtSDlfdnJmZndaWG5ZOFJiQ2JaT0tuUENlc2NIRmthUmJ6VXhUcnpiSEdwbkVwRnFqM1Utb0NpVmdwNEtqaVVsYkhtc3JTa0E1VDNSQWVxME1KYnhIX0pB?oc=5",
-   "time_utc": "2026-10-11T10:14:04Z",
-   "gst": "11 Oct · 14:14"
-  },
-  {
-   "title": "Shell Takes 30% Stake in Equinor's Bay du Nord Oil Project - News and Statistics",
-   "source": "IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYjVYVVBGaDg4SXUyTWtKQUkwM2V4UThpRm9qNVpGUFYzbzd4X3BvMUNnVnhQSVh2ejFOQVpjX3N2cWNTTVlKX183SzB6Q0VsOS1qaEZFakJibU1GcXZROC1raVFsbUE2dTlROWVETkYyakczSFA4YVZpMV9KZ1RIcHNjOXBYMFRrMUlkNGtZRzE?oc=5",
-   "time_utc": "2026-10-11T10:02:52Z",
-   "gst": "11 Oct · 14:02"
+   "title": "After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping",
+   "source": "CNN",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43VjFQRFkxRVVwaTRiTHBubTY3M19MS1I2RFZsbWxHakhPUlNfc0Y5WVFvQ2xrY3FaSTAycE1sVmU3QXhnZ1RRTGlndVNPX3MyVVplNXllaFpGN1F6MjMtUnkzRl9JVDNCcWhyaVhOc0otM3lsbXZuWGljYw?oc=5",
+   "time_utc": "2026-10-11T16:28:49Z",
+   "gst": "11 Oct · 20:28"
   }
  ]
 }
