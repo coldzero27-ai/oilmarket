@@ -1,27 +1,125 @@
 {
- "updated_utc": "2026-10-18T19:23:45Z",
+ "updated_utc": "2026-10-18T21:49:03Z",
  "feeds_ok": 5,
  "items": [
+  {
+   "title": "Bo French, Jon Rosenthal battle over culture, job duties in bid to regulate the oil and gas industry",
+   "source": "MyRGV.com",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVGhDenRSOER5S0ZfUUs2UjhMb3MyTFpEb3BELVQxZDZ0OWVvWC1ZWUlCOFJYcWFFeUhkLVVIRENQTE1hT3lnaFpaSTc3WExSQXFEVndyOFdaSjhhZVdRQmhIOXM4UDhGT2V0N2h2VWZ6T1Fjc3U5Nk90dldrcW85dHJSaWotanFXbUFfQmh3Z0p0NkVZY1lCdmxOSlR4WGw3X2VnQ2QwMXA4QmxLWFFEakxWSXBHczcwX1FoWTJjUEhIT09NR1VWQ2t2c2RTa2FOa2V2NzVobkRCdks5a1pkajVXbw?oc=5",
+   "time_utc": "2026-10-18T21:41:41Z",
+   "gst": "19 Oct · 01:41"
+  },
+  {
+   "title": "Tanker Operator Transpetro's Fleet Expansion Creates Local Jobs in Brazil",
+   "source": "The Maritime Executive",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGx1NU1PRlZvVm1JNzFCUE50OFYtVzNJRGRYVGtpaTFkczB4bnRxWkVYVXJSZXY3em81S2pZMjZqQW9QTkUySDNaU0QyOXItU3RfYTdsYllBcU8wTWZRQ2ZoQVh2Sjh6enJPb0RpaVhOUnJkaS12MXhPN0w4R2k5Um1EX0FJT0xNSmJWMVhyQjY1dGJnalhzeF9HMzBsSDRBRWxxSFZGeEZnZHNtRGZreUZB?oc=5",
+   "time_utc": "2026-10-18T21:30:47Z",
+   "gst": "19 Oct · 01:30"
+  },
+  {
+   "title": "The Price is Right: Secondhand Tanker Prices Soar Alongside Day Rates",
+   "source": "The Maritime Executive",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ1MxMFctdWpsQkd6VGJwaU9KSi1WSVNVMlFMSmFxeG9SdWZKMGhpNXMyWkJlUTJIWmJYVUQ5alJQVW1vUXI3X0gwa3c0ZHJqZmx6SG9jYTRZSUJpZlEzVVhWNTZhRnljblhYNXlpcWtlVjdEUllqVnkta0NWZUZRRnNSRUZibG5Pa2oxbVlTQ0U2Y1JoOF9kNlRLRjZqZ0YzdmltN1R6bWRKYW9TZVg0?oc=5",
+   "time_utc": "2026-10-18T21:20:34Z",
+   "gst": "19 Oct · 01:20"
+  },
+  {
+   "title": "Parliament Delegation Participates in Russian Energy Week in Moscow to Discuss Oil and Gas Cooperation - Libya Update News",
+   "source": "Libya Update News - Libya Update News",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmVEOEFLM204MjU0VFlDRlhYMWdNMGNpRzg1UEQtV25QdXEtdUJxbGh1OUMtMUpPUmYtZHV1WG9waS1LQkVYMDk0NWFfWlp2TDljdXRkWEdoanJmNnZaNEliS3l6dnFkUDRLUWxaYmFEdVhMWVg2X1NhM1B1VnkzYnE3LXdNRG0zdGJjS2toZy1KLXUxeTQ3cFZlMFZiQVV0U1V4TmpYZkR4UnJHaldDSjZmeGxrZG45U1k2YmVoOWdCYjROYnc?oc=5",
+   "time_utc": "2026-10-18T21:03:06Z",
+   "gst": "19 Oct · 01:03"
+  },
+  {
+   "title": "Iran’s IRGC navy says oil tanker hits mine, catches fire in Strait of Hormuz",
+   "source": "The Times of Israel",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY19UakVETkJ2VXp5Tmp4VlBfQ3QzX2RsakdWX0RMRFFtMkY5MlhlZGlTRHBwZDFZcWZJdDNKLXppWU1uZV9WeVZRZVI4Mmd5dHVGV29BalZaQW9TZ0hYVGVsc1BsTWs3eGtSS21Xd1QxdThYRl9rb0NxbURYRFBGOVhKZDFHVFhYNDF1QkEtVzcyY1hWOEFVZTEwYlMydk5Xa1lIQXJ3ZGNVcnpOVTJkT01pUC1WdjRhZF9lMQ?oc=5",
+   "time_utc": "2026-10-18T21:00:47Z",
+   "gst": "19 Oct · 01:00"
+  },
+  {
+   "title": "Brent Venables' praise of Oklahoma's offense reveals a troubling new standard",
+   "source": "Stormin in Norman",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEVfN0FtdzZnSkU3VTc5R3piOTZEV3k2cDEySlZLZVBfbV9YcWh2cloxaTU3NVNFeVh6SkVKdW5wU2VhcEhGOEFiTGMwZ2NPS0Y2SlJNM1FKbU0yOG9ya1NGcVBhSHVmYXAzeW1NUWpKQ2c0Q0ZiZUNtWjB2emIyTlNNTkxvTVBwWjNaWXZiVmdXcmQ3MDhSb0VEX2RwYjF0NFE?oc=5",
+   "time_utc": "2026-10-18T21:00:00Z",
+   "gst": "19 Oct · 01:00"
+  },
+  {
+   "title": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis",
+   "source": "OilPrice.com",
+   "link": "https://oilprice.com/Geopolitics/Middle-East/Hormuz-Is-Turning-Shippings-Fuel-Bill-Into-a-Supply-Crisis.html",
+   "time_utc": "2026-10-18T21:00:00Z",
+   "gst": "19 Oct · 01:00"
+  },
+  {
+   "title": "St. Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
+   "source": "The Boston Globe",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQlRVRGl1TnpCaUNTUWhhRkZjWHJ3RjRPVXBvR0JXQlNyclhFZnRDSWhnVk1FYzF3VFpDV2xFRDlNdFB5dWQ5YkJySE1GTkJxdlh2VFBndzZiRWpEU2NUYTFUZmF4NHR1VC1HLXI5VzFUcUE5Y0I5dmJ2a1R4a3RlWGxlYVVoTkRWOUI1ekwzSDNnamVJbkEybzhVVllGY29fenFJTVJmYm4zck9lVUhlYkdXT0VuM0tqRTJTbk14enBYb0libUhj?oc=5",
+   "time_utc": "2026-10-18T20:42:07Z",
+   "gst": "19 Oct · 00:42"
+  },
+  {
+   "title": "Russia launches 300 drones after Ukraine strikes oil facility",
+   "source": "Fox News",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zRzdEekViVzRVTGV2TWdGVnhHMmFiQ21SdWtyRnlYbzRSOGs4U1lJQnFxcm5Mc0d6MFBBQldvVkRqQjczNVdNcWpaWGVZOEstbTJSRC1B?oc=5",
+   "time_utc": "2026-10-18T20:34:08Z",
+   "gst": "19 Oct · 00:34"
+  },
+  {
+   "title": "His New Silverado HD Blew Its Oil Cooler at 16,000 Miles—Then Came a $41,319 Repair Bill",
+   "source": "MotorBiscuit",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeU5wZVBLS3VPdVRsVGNVa0RQY1JlMC1FZmt1OFBjNjhiLVllRXVmM2Zvd2haMVJoblEyQlhqeWdBX2VKN0REQlkzNkZSdjVoeVdMUi1zUW9Obm5wb01Henp4YWRuaHotZ2lfTHZDQUd6TVdwV2QxQktPWUdNQVdzaWhZb0lBUzlYQjJRVUJjbHpRTVhUU3VuOURBZGNsZndjNXVITVRBaEtxYUVQX3Zyd0pCOE9BQQ?oc=5",
+   "time_utc": "2026-10-18T20:33:47Z",
+   "gst": "19 Oct · 00:33"
+  },
+  {
+   "title": "Ukraine targets Putin's hometown as it launches 1,000 drones at Russia's oil industry — the biggest attack all year",
+   "source": "New York Post",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaE8tU3lQU0w3ajZ4MW5ELXRWVU1BUVNiZWJOTGpMUWpKMS1JRHhqb0NDeXMtS1I0cDNSZjN5SXRhazU2Uno2ZkxKd2VMX0JTeFpWOGRlZXVCUm1NQUZ6Q3o5NUR5aW5Ha2UxeXR2WWJvd0pxZ0J0SFBNcU85OUJKQ2ZJaUMwS21ocy1SRUhQcVFHWXluU3Q3UGpyLVBnVWRuTnEyOHBGdzVlazVBYXoyT0xvMzlXZjJkTHhuVmdQdjhSN21Z?oc=5",
+   "time_utc": "2026-10-18T20:12:58Z",
+   "gst": "19 Oct · 00:12"
+  },
+  {
+   "title": "Late field goal dooms 'Dogs in Battle for the Old Oil Can",
+   "source": "ABC30 Fresno",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmRaU1RtYjRrdHJDTW9xMTZWbG03Y3FzdHozSEJPMzk5NG1id1J5S25oZ0RxVnlZVUxJVnVIdlB3V1YzdlExemx1cHhHWHBSNG1rYzBqMmk5ZWFPejgtY1BQbGZZLXM5dVlWWUJPaVpwYjc4aXJuVmZnQlc2bnNXSWFzU2TSAYoBQVVfeXFMUFlLTDhZRkQxX2xEV2RJd3lKM200S2drUnRFVEFJUHNMcVB1NTM2bnE0R21ONWpxRWZyYzVtaFhTclo2N0FlbndwQmRnU3hLMDdiTmRBSzFpYlBkODk4clVqXzJhWmtjVU0tVUxuanFsUFZpbXFLdlotclhsQkFsZHZLb1dlZDhBTHJR?oc=5",
+   "time_utc": "2026-10-18T20:03:45Z",
+   "gst": "19 Oct · 00:03"
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "time_utc": "2026-10-18T20:01:39Z",
+   "gst": "19 Oct · 00:01"
+  },
+  {
+   "title": "Ukrainian drone attack hits Russia, targeting key oil terminal",
+   "source": "upi",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdlpBcEZpaV9MdHp6aERnS1JtMTQyNlhZM3VSLVI1WVJZakZGYWRMUzF4Qm52UG9ELWFiSXVHM0pFalQ0VmpzXzRZTzEyU0ZSUWxaNkhBT1g2UXJiYkxEczdOS1VHbXUyMU5rMXR2R0hDZVVib2ZpMlNpZjJXM25pTm9tZUhOTHPSAYwBQVVfeXFMTjBtdDFwQlFvSDNNRnByME9FR1NTcnJLSExCbjZkd2RwTlpzSUxUQUlpMTVZc19HREM3bDBxbUUyYm5MRUFWMFRKYUxLeGE4UjJFb1RsYkNDT2ZSczVzZ1Rkb3JyeHBfaXJNV3FONlhQbk1WLUhVSW53R296M2lhU1c1bGJNVXd4d0Z6TUw?oc=5",
+   "time_utc": "2026-10-18T20:00:47Z",
+   "gst": "19 Oct · 00:00"
+  },
+  {
+   "title": "Oklahoma’s Brent Venables puts positive spin on John Mateer’s game vs. Kentucky despite fatal turnovers",
+   "source": "Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORERISzlRX3l4bDRscnVHSTFDVXIweFV5MVBuUzlSNkNOWnFnRU1nTHFCYjFPLTJUWF9Md1JmQ3B1OHdGNmtyNWQyb3RQM0J0czNJeHpENXZRd2VDc281Z05BRElvRFFTMWpjQnlSMGdZTEsyN28zSnRMbEZmbFF0Y3BUbk5Jc0FEV09DRzVwUQ?oc=5",
+   "time_utc": "2026-10-18T19:59:14Z",
+   "gst": "18 Oct · 23:59"
+  },
+  {
+   "title": "Carnell Tate's First NFL Touchdown Comes in Toe-Tapping Fashion at Lucas Oil Stadium | Game Highlights",
+   "source": "Tennessee Titans",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYlJyamVQdzVnMzJIN01RVExDbnlNa053RkZKWjY1eE5hR3piU1doVU1IMHVmTUNCMlhmUllsLVJRaF9OLU9yeGVTN1F2bVpYS01hMFNMdWtsNUNqMWQyVU1jNkMydG16X1l6Q09qeDBORjRxcThlSE43U1BZRTJmaGw0UTBZTHl6alVMdmZRZTNQLTkyX283dk1mZ0liVUZ6eHVvUzlvdFFoQkdOS0NqXzZ6TnJ1YS1kQU1EVThlU3NvYXBCRGhnSXB5T0s1X25fbXR2Mw?oc=5",
+   "time_utc": "2026-10-18T19:39:43Z",
+   "gst": "18 Oct · 23:39"
+  },
   {
    "title": "Zaidi orders oil ministry corruption probe, urges higher output",
    "source": "The New Region",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42ZjNOejBPU0xSeFN6Nm41UjBaeXF6OFJUTlVTbEV4Y3ZKWGNoZVpIbHhsSUstcThrcUVkNThaajFVSzA0SkNVenNNQQ?oc=5",
    "time_utc": "2026-10-18T19:23:07Z",
    "gst": "18 Oct · 23:23"
-  },
-  {
-   "title": "Shafaq News..Iraqi PM orders oil production capacity boost",
-   "source": "شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORTA4QXY2NThHTTY3WkF5a1BCTFpGRkVHWHBUU3ZTR3gyTlRfdnNnTHNIbGJtWkhveWFmV1FVWVcwMWJnNTVwTHo4SVZwVk9jNEg0MHc3Y2gtTkdSd2d5V2ZyeU9XMmMtYnlkRUlMZVZhQTI5SDZjX0RFSjBOTkp3Wg?oc=5",
-   "time_utc": "2026-10-18T19:16:32Z",
-   "gst": "18 Oct · 23:16"
-  },
-  {
-   "title": "Trump's Oil Deal with Russia Causes Rift in His Administration",
-   "source": "Nacionale",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGJhMnJBZXd0TzU4cEIwTE1BQXQ0MlNEMWE5Z0llRnZ1MnppTGsyNVNPUjY0dnFHUkQ3MzFrM2hvQjltYmJhTHNNTktsTDJ4Q2R6aTNjMVVINHd4eGJOWWdEVHZQdFdNR1F1N3hmbjBvdm5zZFNydTRFQXVnd1JNM1V0R0JlMWRwdDZoZlJVOHNKYXJOYTVNV2ZQNA?oc=5",
-   "time_utc": "2026-10-18T19:06:51Z",
-   "gst": "18 Oct · 23:06"
   },
   {
    "title": "Oil Futures Likely to React to Ukraine’s Attack on Russian Oil, Lifting of Diesel Sanctions",
@@ -31,116 +129,18 @@
    "gst": "18 Oct · 22:59"
   },
   {
+   "title": "Bessent: Dropping oil prices before 2026 ends ‘will depend’ on Iran conflict",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZXhScDl0djgxWExLSzlHQ1pCR3JWVHEtZDNTNlltU3BwYTVua045RTFSaW1hUnpEbE1yWlpzY191N0pGZU5LMHE0YjM2bHNMRTFiV3lfMFNUN1lINFF3dllxSWFQckpvMkt3T1JvdUVDdDEzN0VmUmw2OGJsSXc2azFfRFdLaThhNmxMeDdiSm3SAZYBQVVfeXFMUEhINElWNEUyODNpTWU2dE5jY1RPYzJTTUNzVy1fbWl6Y2Q1cUI3SEszOTBLWnNLRVhGeTIwS29DYkpZVHRQZUU5cFpkQ2FJLV8tSmw1TUdYLXNWc0xxS1RGdV96X0otNmdGb1hiTXZVbGZQc0xzZy1fbjkwU0VFQm4wdndhYllNSlNHaWNOLUpkcGl1QWdB?oc=5",
+   "time_utc": "2026-10-18T18:58:00Z",
+   "gst": "18 Oct · 22:58"
+  },
+  {
    "title": "Ukraine strikes Putin’s hometown, hits oil terminals, data centers - EFE",
    "source": "EFE - Agencia de noticias",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTlPNlhxWHZCdzgtd3NRNlprdmhaRDhCZldZS3o4b2N5N0FnaU1RNmhPRWNXNzhXQ2tCRUNnZ1Nzb09LTVVPc3EwX1RJT25xT00xc2NLNU04UFBfZjR6Ry0xYjdXd2M4bzA4d1J5bUE0RWV1cGhRTDkxWk51T19IV09veFpfcUxZRXJtbldweWhST2hJZGdGRE1HelpzYnY4djRRQ1g3dF9aZHZvWHNWcg?oc=5",
    "time_utc": "2026-10-18T18:51:51Z",
    "gst": "18 Oct · 22:51"
-  },
-  {
-   "title": "Iran Offered to Reopen Hormuz in Six Days on Terms Washington Cannot Accept",
-   "source": "https://houseofsaud.com/",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxX1VWOHdLNHRFV1ZQNmZDdVFwUmhVWlQtblcydE9RTVZLZHZsR2ZQN2Rmd0Z4V0xWekZRU2pRbnNIcXZfQXF1TjduNmJucnpLTGtFYjNEejlOeEhCVHN2MGRERWNjcUE3YXJXUkpn?oc=5",
-   "time_utc": "2026-10-18T18:47:21Z",
-   "gst": "18 Oct · 22:47"
-  },
-  {
-   "title": "Ukraine’s FP-1 drones hit oil and digital infrastructure in St. Petersburg",
-   "source": "Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmQzY1hldEdwY2s1NGNmeW8tNTVYekRYbTdqcUxoSUo1Z2RzSDQxYzdobGdFZGIyNmtzOFhIeU55b25LMWhQM3FHRUs5UnMxSWdIRzNHZERweHhrd29GTFBWR0lqOWp2di1kZzFYc3A4amRtci15MXF0ekFKMGx0ak5JOXpWOTZmZUg3LWhKMHVWNmxQYUFySHdKUjRQUkVFbzh4MHFfMWVPTkhaZHRIcXBZaENBRWFNVDQtYUhR0gHDAUFVX3lxTE11aE5xSEI3WkpGWGZsdlhzd29uMjlRb0laOGtWQWRJeWxJVzFCRy1UaWtZVDU1M2RaS3N5R0xKTkpJWUJPTlVLUFBKampNSjdOT3JKZVFhZUhaZUNKZUd5V0I5d1VEV2RVbnNYekxKOFJsZk40MWVpWm1YUjZ0MVlaR0xxNWZ6cU5XOFd0dUM0cnIwNUtrX1p5QmxYQThVdEZTS1FOTXc3VXVBZjZ2Rlo1clgyNWRfdWd2dU9HQlo0TTZVRQ?oc=5",
-   "time_utc": "2026-10-18T18:45:00Z",
-   "gst": "18 Oct · 22:45"
-  },
-  {
-   "title": "Brent Venables Is Still Sticking With John Mateer After Oklahoma's Loss to Kentucky",
-   "source": "roundtable.io",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM18zMEE4cDUxdDl3QVFyckpESUxNX0p0UUF3UmhOYUdWRi11Ml9ONF9RV01UVVZ4YnNyYUhxVHRZb2I1M0VFdmtPWlBVM2p3dlJOZUh4VFRDUGF2S0FPbmVCSWdrR0kyXzNSaWhGOW5YRmVQNDJBVW1mUzRPLXp4cFpUeG5ZYXFvLUNHNDVjT3A0ZHhram5UWHRGZnkydVhEdEVXcDZpMk5jNnRoQmpya2ZmeVVxNVB5UVU1X1RVSzR6d0NCbVJ0aTdR?oc=5",
-   "time_utc": "2026-10-18T18:42:03Z",
-   "gst": "18 Oct · 22:42"
-  },
-  {
-   "title": "Ricky Thornton Jr. Regains His Swagger As Lucas Oil Season Ends",
-   "source": "FloRacing",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlJlWFpocmtHWTVsOVlmSFFMMnlBVkM3OEp4SkpQeThKbE9Lbi1SMHFuZjhybFRuTS1ETmFoUGMwbWxLNzd1Nm50SHlJdl9Yb3I0ZE9zZlh1dGs0TXRTR1pCYVBNSUx0cW5lX3IzR1EzeGZvSDRvalZ2ZHJkLURJWnl4cGREeURqVlg2b0JrTXROT1dYZVllZk9MbG4wX1AxUzdlRnRQODdCUQ?oc=5",
-   "time_utc": "2026-10-18T18:33:57Z",
-   "gst": "18 Oct · 22:33"
-  },
-  {
-   "title": "Ukraine launches 1,000 drones at Russia, attacks set St. Petersburg oil facilities ablaze",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpzT0JqMHd6elRCQmR4Z1JKWWpycEc4UXI0dXJfQkN0NGlvOENSdjl3REZ6SndFSVRaNUo0cV9hX2hKNEN1bXFwbkdmUTlsUlQzUDgwLTFQUVdJWnRHTm5IMjZPSGw5M0xRTGtvZDA5VFhLeHRLWnVZSGZ0d2dxVklrTU8?oc=5",
-   "time_utc": "2026-10-18T18:29:59Z",
-   "gst": "18 Oct · 22:29"
-  },
-  {
-   "title": "Ukraine launches 1,000-plus drones at Russia, sparking St. Petersburg oil fires, 1 dead",
-   "source": "KCBY",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmpIOE9UN0tzNGdJUGZGYVhNbTcxczhBZW5kTS1ncms5TVE3cjJpY2tmcUx3VkozeUpWUmRKc1VpV0pONUM5UzFpV0U0RUt2UGg1cWNLU3Zvd28xc2tNSktBODlpU2RUeFZEaFJONnR4dGxZVnhVUEdrbWJEQ01GQmVUbUx4WXFqQ1hZSDVJZlJxMEZSTlJySFFqVHViM2RUQ3ZTcHVuaGZXU3laeGtkU3FtUWhfLWpldWc?oc=5",
-   "time_utc": "2026-10-18T18:18:41Z",
-   "gst": "18 Oct · 22:18"
-  },
-  {
-   "title": "Trump Waives Further Sanctions Tied to Russian Oil and Gas Sales",
-   "source": "NBC Palm Springs",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcTFTYk1NVnR5UV8xSE9oRk0wekNWX295ZS1OTDJXcXJOdFc0dC1Xb01KLVVpa1hrdjZIdnc4Z1BfSzR3X3JSckdlcjVzM3VwaFlBVEtRTmRQLUdReEJIaFB3YjFyOWJJbnNOSDc1VzB2VDBfX3d6dVlxMk9RYkZUWW4tT0NYUTFTUS16ektUem5Hd3ZCZHN5TGE3emNDN2Yzb2o3R3NNN0FVc3NtZWxQSF9TeDVhemNMNVlraGJRQQ?oc=5",
-   "time_utc": "2026-10-18T18:13:13Z",
-   "gst": "18 Oct · 22:13"
-  },
-  {
-   "title": "Oil City No Kings rally",
-   "source": "The Derrick",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUdBVEtYWm9vMm5LX3lrdV9acDFNTFo4U2RnbmQyZ3M1dGFFN0R5OHJiVENoRXRvUldEVDF2bVFoTHR4amdBWGFzLUtwTXdicEFWZWp2b2dYVzB0UHZkb0pzMXNkSS13WGVmQ3h6UkFWVkpOU1dYYV9oR2tzbVdZTGF2cFY5dUk0U2NOM0MyNGc4TzRkNmszR25odHdyV0x6dnc5RlI2d2dfQWZyZWVVV1c0bWxSR1NSNHc?oc=5",
-   "time_utc": "2026-10-18T18:00:00Z",
-   "gst": "18 Oct · 22:00"
-  },
-  {
-   "title": "Oil & Gas SCADA Market To 2035: Digitalization of Aging Infrastructure Drives Expansion - News and Statistics",
-   "source": "IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMWFZelJ4SkpYNHNSV3FQS3N5Yl8yaUlBVjE0bTU3b3dCTmJvc3RMcVlpaVB5TWVlOU5zNkt6eFRtU3V6ckh2RTRnRW1ueTVpOEVlc3VqTHBVVUJ1ZUtPZlQ0eDRDbDBCT3pCa3ZWZENTSlJ6MVF6cVlfbGdBeF9xdVRWUlFIZlRlSTR5Nmx3MlBXUEh4cmdyS25IZDg4TmxUSHgxTGkzN2JYVURadzZDN1E2WVUxdWdvSG5ycFFHWTM?oc=5",
-   "time_utc": "2026-10-18T17:51:04Z",
-   "gst": "18 Oct · 21:51"
-  },
-  {
-   "title": "Iran Proposes Seven-Day Plan, Offers Conditional Hormuz Reopening on Day Six",
-   "source": "Open Magazine",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmxGclFTQWV4TU1XSElkVGpia09wQmNmNmZ2T2ZkdFdzc0M5bEgxUGxsd0ZJVlpmVmNtVjlxVWEzVWhMemRPbUIyQnhJSXlMcWRHc2F3aDZzN3FnWnFYMTZaMkdId1Q1TVhrdmVNU2NJQk9ONFZGZlBaQk5fWUtlOWRjaFRPeXZmZW1xOG82LUNOdlZFbUozejB4aDhhQ1hYUlFhQlVkYUgzUGV6Z1E?oc=5",
-   "time_utc": "2026-10-18T17:43:35Z",
-   "gst": "18 Oct · 21:43"
-  },
-  {
-   "title": "Tulsa rescue takes in mother dog, nine puppies after motor oil exposure",
-   "source": "www.fox23.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFR2djd6RnUxeTVhdUxmZmZSNFNHdnNsU3Zlbi1MSV9VV0NzQ3B4aVRqa2E0bGIwaWdXSFlrNEhHS2hDaU1hQXZOUWZtdFE3Uk1IZ3VmWlJkT1ktd09uRUlqT2V1ZnB2MkV3SlFjLXJWNDhGUmU2Wmd3VEhEMFhwMU9teENPYkFtQkNOdHkxc2JRZkgxc1QzV2tpTFdHM1hEN1o4d2Jpd3hCTU1oMjFlT2t6UVM?oc=5",
-   "time_utc": "2026-10-18T17:42:25Z",
-   "gst": "18 Oct · 21:42"
-  },
-  {
-   "title": "Ukraine launches 1,015 drones at Russia; Oil terminal, depot struck",
-   "source": "Straight Arrow",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDR6bHYzZjIyMWFucm50WXZidUVfNm9zeWplcU9GTmttdHNicWNpdEVGNndtQ0JUWjgtbVFMaFI0QTJZejRmOEdqVmNGUi1BbzNVYmdpc2piY1A2Zmk0N1hlVDhuaEcwTmlEeGtXbU50SnhST1hkZEdMOWJqaWxTMTFPdWtlNk04ZVFWcg?oc=5",
-   "time_utc": "2026-10-18T17:30:00Z",
-   "gst": "18 Oct · 21:30"
-  },
-  {
-   "title": "Ukraine launches over 1,000 drones at Russia, sets St Petersburg oil terminal ablaze amid US sanctions unce...",
-   "source": "Firstpost",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSEFuMm1hcktjbktJMjNzWlJSTXdoaWRHNEx6cDZhdXhqY0Z4empmODh6a2V1YVNZdl9xQzhBWWFEdlVpLTNubi1aeGNjOG5CSFZfY0dHT0huRG9HWXMxc0VWOTc2eXRwUE5TdWdOa3FGRUtIZklwak9lV0tQRGJrSTRieEM2X2hwM2VtWWd1T2xTNmgzSk50RDBsTEtXaTR0dlVoMDRtT1FnZFVkT3VZX25ZSmZFTkh1ckhtT2xEbkxLa01NZFh2N2kzQ3BRbXlsMlU5b0NkbE0xcXNOOW9vT295N0ZSYzNQTklXRmJVWdIB9AFBVV95cUxNRzRNalVvcUFrQXlERDlsQlVrZHRPdFVqVGl5V1BPa3JidXpZUjdpYVJ2dkZFQ3ExdGxDUzIzenJyOXRfMUpsVUU0em5vcmVvWmlOcXI0Vl85MDBrRlV4b1ZGMnhEZWI4YS0zU0cwS3BsekxuYkxmczM0UlB4UkZrUnlVWVh6TF94dUJ0WTVpcnI4ZF9Zb3N2TElyblVOMmdQXzg3bmRCQUUwZUtWOGVobDNsLVhBMUdOM2t4NGRtbFNzbUJJMmpaeWI0Q1JwSmVVVnBhMWF4X2xuNEZsU3NjdlVEN3VzdWt0MWJBXzdVZUpjb0lD?oc=5",
-   "time_utc": "2026-10-18T17:29:21Z",
-   "gst": "18 Oct · 21:29"
-  },
-  {
-   "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
-   "time_utc": "2026-10-18T17:26:00Z",
-   "gst": "18 Oct · 21:26"
-  },
-  {
-   "title": "Ukrainian Drone Strike Hits Putin’s Hometown, Striking Oil Terminal",
-   "source": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjdGd0dFdEdRZU1VZVdvbkpPbHk3dzZldnpPRnN3b2t3dVUyNjVMMlVQeG4ydldqbXY5MHFtQzNTbVBRWXBVQnFWSGtWcHBvOUh6cDdvRHBIQzlIWTd3S2pMbUhjVXBVM3ZQRmJoNFBDQVg0Y0V5ZnpFRjVFQXJvTmVyaF9Lb0lvM1Z2bGVXTC1DVkVwQ29aWUFVS2FXd3lpOW1OWjQwS0xScFE?oc=5",
-   "time_utc": "2026-10-18T17:23:00Z",
-   "gst": "18 Oct · 21:23"
   }
  ]
 }
