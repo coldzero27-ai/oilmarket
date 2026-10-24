@@ -5,7 +5,7 @@
   {
    "sym": "BRENT",
    "name": "Brent",
-   "price": 111.66,
+   "price": 111.7,
    "prev": 113.17,
    "time_utc": "2026-10-23T20:59:19Z",
    "spark": [
@@ -65,5 +65,5 @@
    ]
   }
  ],
- "updated_utc": "2026-10-24T04:27:47Z"
+ "updated_utc": "2026-10-24T09:05:11Z"
 }
