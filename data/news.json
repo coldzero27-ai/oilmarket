@@ -1,20 +1,83 @@
 {
- "updated_utc": "2026-10-24T21:50:57Z",
+ "updated_utc": "2026-10-25T00:16:43Z",
  "feeds_ok": 5,
  "items": [
+  {
+   "title": "Brent Venables hails Oklahma hard-nosed win over MS State",
+   "source": "Southeastern Conference",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFpCNjhvbDg3Z3B5eFk5cE5kZWRPVGpGQ3VyWnVaLUREcmZ3TmE0b2YxUzBXNWZkZ0MxQ2dKeXZ2UFAtRHM4RlRxOGpQTDNfTFZlZ2swaUVsUHN5UVhaTzRPY3Z4cjNrRmhoSDVTaHhxWmFUUDktMkJyWXFPMWFGRTNTYjMtR3JPS1N6ZVN1TW95OWI2SmxFVWYwaGZjNUU?oc=5",
+   "time_utc": "2026-10-25T00:01:59Z",
+   "gst": "25 Oct · 04:01"
+  },
+  {
+   "title": "Oil shocks no longer hit the US economy as they used to",
+   "source": "CEPR",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODlwNDROdzU0WG1keDFQQzNPM050V3FMcDlWX3RIYW9rWFBQYm5PeXdzSDRheTBJVWVPamwtWjd1NklTYlEzamY3em91dVV1WklCY0FkWEh5dnVIUGE4V1lUTUpJNTRFMlIzU2FuTUJCWjEtVU9WUW9hR0hPLV9oNkd3?oc=5",
+   "time_utc": "2026-10-24T23:54:47Z",
+   "gst": "25 Oct · 03:54"
+  },
+  {
+   "title": "Houthis Strike Saudi Airports And Oil Facilities, Saudi Intercepts Missiles Over Mecca And Medina",
+   "source": "NewsCord",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYjNfbVVDTGxrNHpadEV0MURseWE1Tm9mV0VqZ0VYLWNPaWtidUh4dG5sZk9wak5pRTgzOTNKSkNuTWNNbWVhT3VicHpkNnEwaTV2Qi00NFhWWXZBYVhJV3BIU3Z0QTZNa1IzMHRkRzhkdzY5ZE9QbzIyZW1MTUlKQ3BzNWhHQXlnV1lhOWlUdGV5cVJ3akVpYnhfUmZyeXNtZ1k2c093Rm5qZnFtcFdSRFYyaE9BUDJKdGVBRkRXdnUtdXBoNldzMWpPX2NJeWRGMjdqSGxJaTN6S2JzRzlWWWpIVHZHWnluNEE?oc=5",
+   "time_utc": "2026-10-24T23:19:34Z",
+   "gst": "25 Oct · 03:19"
+  },
+  {
+   "title": "Talking Money: Markets roil as oil toils",
+   "source": "Prescott Daily Courier",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUTZpeFBTdFRPa0ZIWUFZM2lRcXJlNS1ETlV1bUFFc25Jc2pQVmlXcjVybUVXRXpqaG9oTWlWVmFJajY2bmstbmZBQjZrM0JtQzZWQ2VPU3dSSWFUU0pma2pIeFJUTzdXeXNZNXoyei1WLXJXUEw5MzZkb08yd3hSVUhRUTRvMFdWekUydFdtOWlyZG9mWnl2Rnd3OExhM3lhNlVvSjNaM0RWWHBOalRNMmhMZDJDbFBEZDJn?oc=5",
+   "time_utc": "2026-10-24T23:00:00Z",
+   "gst": "25 Oct · 03:00"
+  },
+  {
+   "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+   "source": "OilPrice.com",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
+   "time_utc": "2026-10-24T23:00:00Z",
+   "gst": "25 Oct · 03:00"
+  },
+  {
+   "title": "Brent Vigen after Montana State’s win over Weber State",
+   "source": "Billings Gazette",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWJ4VzNtTFNSV1hGeFJIam1aYkFlVmNHc2RJekNZN0JobHgzdWlHU0lXOWkybEZlN2F6SFpZMmVCTERfNF9hem1VWTZjdlJmcF96b2hxZnpYeG8zbEZFbktSdEZBLXBqbDhnVlFzNkZVZnp5bV8wSUhTckF6ck41QQ?oc=5",
+   "time_utc": "2026-10-24T22:55:00Z",
+   "gst": "25 Oct · 02:55"
+  },
+  {
+   "title": "Iran Strait of Hormuz",
+   "source": "TelegraphHerald.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXZRVVY1d0VlR3AyMGluV21yZDZiTGhIZW9mR0xLc3lwb3kyNVdwMHFsRjBUSTB5WXJSd3V6c3QxODZHSDZ2a0RTeVhVeWRkWl9JbzRqb3lmT2k1Ujh0UWctczFmTUxpNlFvbWFnYmFvQ1RlRXJRODBjTDlqaUczWUtYaWgzT0FkcGFjS0NGQnNMRE5YTDZhUg?oc=5",
+   "time_utc": "2026-10-24T22:15:42Z",
+   "gst": "25 Oct · 02:15"
+  },
+  {
+   "title": "Berkshire Owns Both Chevron and Occidental. Which Oil Stock Is the Better Buy Now?",
+   "source": "The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQVdPRTZFcjhZQ0xGcDlGNTF3NVpIWTNiLVRjeUZRd19nRTZDMlZYMDhSdFdLeWxVTWl5WGdzeDZsR2E4WGdzZGYyQWQ5Wmo1YzZNeFRrNGU3YXhjbldQdVVZZEhPbDVMRWVKVHE1LWNlZGR2elY0VmhwS04tYjlCcXFId0hwZk44YkoxX1dhN2J5SXFSYUcteA?oc=5",
+   "time_utc": "2026-10-24T22:15:00Z",
+   "gst": "25 Oct · 02:15"
+  },
+  {
+   "title": "Lafourche Parish crews working to contain oil well leak near Des Allemands",
+   "source": "WDSU",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGM5ckxUdFBwb0d1d19QZVNGbHVEVTVON1U3Z0s5cmhBOE5LeUNIdHlyMVJ1SmxENkE4LUZrREEweU43MU1uOFJiOERiaDdtbVJtLVp6RnJGR2duZDNRUy1NSF81cmhXSjVndGdZb3M0N1BwVHpvN0dsM0RIZzIxZDZfUko3bWJfM1VLaUhiREVTdw?oc=5",
+   "time_utc": "2026-10-24T22:11:00Z",
+   "gst": "25 Oct · 02:11"
+  },
+  {
+   "title": "First Russian diesel tanker heads to New York after Trump's deal with Putin to lower fuel prices",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkw0T1hRdzZzNTJocWdXdjJNVDNacktJWF9uMF9hUjRBdVdyNk9pdWZrai1uT0tKbk1oeUdYZF9rQ2ZWWUk4bVhyWEc5SkdaV1lwdnJfOUFFRHpVTlVUZHF6amVYdHkxNFRtYTZibGJNckgxMGVQd0hIUmFSTl85eWdtNWtVcTN4TTNzVGRaaGVYeGROM0lwaW83ZEZJM3l0WUdhN3hYMEk1WEVQZUQ0SHZPWXVjeTNaRTBEZU5B0gHDAUFVX3lxTE9teXNPYUNKcGg4Ml94YkF2aXdYRWFDMWZMWXRqa2dHd2xTZWhvdVEybUFPRVZWS1BzcWlwNWpVUGY1Y3psckw5RXp5QXBwRUJoYXJmVHFqZlZhQ1l1Mng3UFhNNl95b05LVG9oMW1Rdm1hcnFqM0tJNTAxUmJQR2hJQWlMbjdMLXZnYm0xMG51OU93YVdTaC1EUTJKam13Z1RwV19PSzcyTzlZUGRNNUtwSWdQNEROQWxoRFRQeWRqS2JOOA?oc=5",
+   "time_utc": "2026-10-24T21:48:00Z",
+   "gst": "25 Oct · 01:48"
+  },
   {
    "title": "Houthis say they targeted Saudi oil sites; attacks reported in Aden",
    "source": "KSL News",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUFo5Y21teDdxNFYtUWNQREJ2Sm84bFY3dWc4aGZzaEpNQndBcUxhM01kSUFoTFVGZC15SGE1VUF1YlB1R3hqZjgwWTVxejlSUWFOaFVxamcyNjIySGlaeGlBWS03VlpTY2ZWNjZvbWZaWkYyVXAwSTkxTFpRT3N1WE11YW1uS0JhSjA5X1JpMGdpMElDUW5ON3ozRzFEQnRCYjY5bVlB?oc=5",
    "time_utc": "2026-10-24T21:30:52Z",
    "gst": "25 Oct · 01:30"
-  },
-  {
-   "title": "Berkshire Owns Both Chevron and Occidental. Which Oil Stock Is the Better Buy Now?",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQVdPRTZFcjhZQ0xGcDlGNTF3NVpIWTNiLVRjeUZRd19nRTZDMlZYMDhSdFdLeWxVTWl5WGdzeDZsR2E4WGdzZGYyQWQ5Wmo1YzZNeFRrNGU3YXhjbldQdVVZZEhPbDVMRWVKVHE1LWNlZGR2elY0VmhwS04tYjlCcXFId0hwZk44YkoxX1dhN2J5SXFSYUcteA?oc=5",
-   "time_utc": "2026-10-24T21:26:16Z",
-   "gst": "25 Oct · 01:26"
   },
   {
    "title": "Head coach Brent Owen: \"I’m Proud of How Our Guys Battled\"",
@@ -52,18 +115,18 @@
    "gst": "25 Oct · 00:12"
   },
   {
+   "title": "Dow Plunges 652 Points After Crude Oil Tops $100 on Renewed US-Iran War Fears",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BdW13UzNkQVNvLUQxY1lmdkFUTWJxQzM0eXRhekUtTE95MFpPYm9McUJRMHBUeFJXbllIYl9oSUhpZ3B4MzJYX0ZGRlJBZi1Md3JKWEUtbnh5RHZKeVVQZEFEakJ2QTBVWC1tdHMyMTVlMmlTY0E?oc=5",
+   "time_utc": "2026-10-24T20:05:00Z",
+   "gst": "25 Oct · 00:05"
+  },
+  {
    "title": "Houthis claim to have struck Saudi airports, oil facilities with missiles, drones",
    "source": "Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUENSaURMdTFuSWZVM2R6VEhUQXBGaU81Sl9IWWI1WXpzMEhjOGpaZFVMejNTX1cySkx4ZVFJdTd4ZEpmMXJ0RTI0NW5Dc0N1LVYzcjBXejJoWHZyZENMbS0zSHRObjItbkxQamRLb1VBNlUtUUpLUzhfQjQ1bTZ2U09JMG5pSGpyVUo5X2wwaWZicUhBcXRNUzlZeGNkcGNWOHJ3VHhLZ3NvamxLeVN0V096Q09MRlQ0c1kxUA?oc=5",
    "time_utc": "2026-10-24T19:39:25Z",
    "gst": "24 Oct · 23:39"
-  },
-  {
-   "title": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDBraWtmVGdqcWpXUXNLR1JEeDQ5azBMUFNjeWRTQUVuMlZmUG05OWFiU1k2NVFGMEZXRUVCcG9Ja3FXS2tJalNaeHg2aDBBMmFYRHV2cU9yeEdzQkw0SVlsUV83bUo0YlQxM0FIa2ZYTmxjb2dSdWRoVzR0MGpTbWpYZjQwVkNSLXdfUjhlWlR2My1IWmp6VnhVd1pINXU4OFE2aA?oc=5",
-   "time_utc": "2026-10-24T19:25:25Z",
-   "gst": "24 Oct · 23:25"
   },
   {
    "title": "UAE Shuts All Beaches As Neighbors Grapple With Oil Spill",
@@ -78,69 +141,6 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNi12SFY0Qmo3dWtvVllWU1UzZlloUU1RREpUN3Jvb3JWY2hMTWhMRWJOSlNiNEtPa29iSEpjbjRHcUxjeWpnRVhtOVk3VXRjLXlpVWNteEFXNm9DbTV5bDV4YmZ1N2h1SFVyQWFFWmdlUVVwblRpTFo4aTdxOTJFTHlPVWdha0JVSldEWFFlWWU?oc=5",
    "time_utc": "2026-10-24T19:04:17Z",
    "gst": "24 Oct · 23:04"
-  },
-  {
-   "title": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWxFc3BObjRTT3dxY3NPQTdxY0xVLUZGNWlQWUp0WFNtWVYyZDI0RWdXMG0xNnBKSG5XMFlvYkg0Y2pSVlhTUHhydnk2NUYxT0lTUHFuZzQ4ZFQtMVdMTFdNNHhEdFBram1GZjFQcFJVbWx3emtiRnNHaHRhbzl3T0pNYlJSUDNfV3dhb3Z2V0dsRGtRbmltSg?oc=5",
-   "time_utc": "2026-10-24T19:00:00Z",
-   "gst": "24 Oct · 23:00"
-  },
-  {
-   "title": "PA Weekly Oil & Gas Compliance Snapshot - October 17 to 23",
-   "source": "PA Environment Digest Blog",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHJhVUJjWWMtS2JILWhRZjhOZHptcS1GNUxtVjBEWUhoZ1hwT3pkWXp0eHNnbm9qd25jTWxTcXZod2tmLWtWQTVOMk1tdzRQellyUWZJUnZzZVJ0UjNfT1NfczdMUWlGWHJkMDlWSzI3WTZ6MWg2SFlDOXkwQ1h4bm1vcm90ZU5kUmllZlozaWtYenM?oc=5",
-   "time_utc": "2026-10-24T17:57:56Z",
-   "gst": "24 Oct · 21:57"
-  },
-  {
-   "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
-   "source": "France 24",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTkdyRmpOazU3c2tkT21STG1KNEcxMVUxRmoza0NxX1dZRmhZZlkzRHNBbW81S2NiUnNnb3paWmhSZ0ZRakVvaFprUTN5WnlyZlVBQUpWM1BXTDI0cy1ZUXBlR09CYzJsdWF0SzhCbnZLZmQzZkJiT3RLTnVmNWRJQ3QtWTNlOUNBcFY4TTY2cUtnbDJxaVE1RVFEVktuWGJ5Z2JVcS1SSUZUanZod1dlcXlYZlBPMkR1VkdwYlRvdWFVcE1BYzhkc21OV1pUNE12eGZSd0J3?oc=5",
-   "time_utc": "2026-10-24T17:50:25Z",
-   "gst": "24 Oct · 21:50"
-  },
-  {
-   "title": "Lafourche Parish crews working to contain oil well leak near Des Allemands",
-   "source": "WDSU",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGM5ckxUdFBwb0d1d19QZVNGbHVEVTVON1U3Z0s5cmhBOE5LeUNIdHlyMVJ1SmxENkE4LUZrREEweU43MU1uOFJiOERiaDdtbVJtLVp6RnJGR2duZDNRUy1NSF81cmhXSjVndGdZb3M0N1BwVHpvN0dsM0RIZzIxZDZfUko3bWJfM1VLaUhiREVTdw?oc=5",
-   "time_utc": "2026-10-24T17:38:00Z",
-   "gst": "24 Oct · 21:38"
-  },
-  {
-   "title": "Oil, AI Credit Stress, and Bitcoin: QCP Flags a Dangerous Macro Mix for Risk Assets",
-   "source": "CryptoPotato",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1BzbzUxOS1XV3lrc2YzalFsTExVZTRFc2dZRHM5ZVBqSHJSMkV6djF2cDBrV3hQdUNSd3ZUYjhlaGJOcFBnYVpYOHBtazN5MXdNeWliTmJJaHJScDNTQ2tENGpOdU5TSHpYVlY5bzRZOFR2U1BsRGNsU05ncW4tNFBzZHh1aFE3Qk5GWFE1aFFvVnVPY0RQRHZCWnpxSm9Gd0pMRG5WWEFzQQ?oc=5",
-   "time_utc": "2026-10-24T17:06:00Z",
-   "gst": "24 Oct · 21:06"
-  },
-  {
-   "title": "Libya reopens oil pipeline to Zawiya",
-   "source": "Arab News",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkxzOE5LVTF6Z3dTMFRubVU0LXQwNkNPWDFwcHdQdFR0Mng0SjM0ZlNNTEdTSXZ0MHdDeEFHTGpQeFRqMVhMVnNrcG1pUTljTzFzdUV0Ym5kU05KcTBaeVA1YXpvbkVQS3E3ZVp5b20xWmxSdFIzRkhCMUxkVGQyUnlYbWs4V3Ro?oc=5",
-   "time_utc": "2026-10-24T16:50:02Z",
-   "gst": "24 Oct · 20:50"
-  },
-  {
-   "title": "Reports of Explosion, Possible Damage to Giant Oil Tanker in Strait of Hormuz",
-   "source": "WANA News Agency",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2tka2pPNG9yLVRCR1RtNjBFTG1DT204enpnZkY4YXZHTXJqX3NlV1p2M2dKcGpLc0ZCbWYwT2VqclZDUGlzTkJoNjZnQWwwRTYtMVhDZ2w5WXpWeFk4NXNkSk9yQktTR1pVY2F3U01QMFc2R0phZjc0amIxeUxrRENncUR3ZE5GbE5aVkg5aXVzMjRUcGZLN3ljZFE?oc=5",
-   "time_utc": "2026-10-24T16:48:13Z",
-   "gst": "24 Oct · 20:48"
-  },
-  {
-   "title": "Goldman Sachs warns on the Hormuz crisis and rising fuel costs",
-   "source": "TheStreet",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXpGcl83by13SW9TX3ZnTW9MSWU3cXV6NDVjVnZUY3d1Rk9sNF8wa1RWZ2IwU0UxcWlQcDFGeFdjUndZWFp4U25qSk9FRFoyOUdiQ1pIaTJGaExnNldGU2h6Z21TRGplOGF3TGZYd3VnN05zbWFzcGlreG5uVHVOR2FmamxmTUJ3VW5vM2YxVjhpdk10cTJSYXA4UkdhcnNnV2xjdDhOb2k?oc=5",
-   "time_utc": "2026-10-24T16:47:00Z",
-   "gst": "24 Oct · 20:47"
-  },
-  {
-   "title": "Oil Hits Six-Month High as US Stocks Decline",
-   "source": "WANA News Agency",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WMTZiYkR6VkZDaVczc2dHTlAzY0p6U0lYaHVkQ3dTNDFRUTgyQm9aOG5JS21PWldwRlc2MEFqZHBNSURuWVd6RXR3U2ZQOTQ4X2huSUlBMmtCdXhNV0wza3pWLVFKc0psejNudEVRY2dWZw?oc=5",
-   "time_utc": "2026-10-24T16:38:10Z",
-   "gst": "24 Oct · 20:38"
   }
  ]
 }
