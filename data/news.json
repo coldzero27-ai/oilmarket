@@ -1,7 +1,28 @@
 {
- "updated_utc": "2026-11-27T00:31:22Z",
+ "updated_utc": "2026-11-27T09:01:01Z",
  "feeds_ok": 4,
  "items": [
+  {
+   "title": "Iraq Delays Up to 30 Million Barrels of Crude Oil Shipments",
+   "source": "OilPrice.com",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Delays-Up-to-30-Million-Barrels-of-Crude-Oil-Shipments.html",
+   "time_utc": "2026-11-27T08:30:00Z",
+   "gst": "27 Nov · 12:30"
+  },
+  {
+   "title": "Oil Prices Climb as Middle East Supply Risks Overshadow Glut Fears",
+   "source": "OilPrice.com",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Middle-East-Supply-Risks-Overshadow-Glut-Fears.html",
+   "time_utc": "2026-11-27T05:18:44Z",
+   "gst": "27 Nov · 09:18"
+  },
+  {
+   "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
+   "source": "OilPrice.com",
+   "link": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Oil-Needs-a-New-Shock-to-Fall-Further.html",
+   "time_utc": "2026-11-27T01:00:00Z",
+   "gst": "27 Nov · 05:00"
+  },
   {
    "title": "The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil",
    "source": "OilPrice.com",
@@ -59,32 +80,11 @@
    "gst": "26 Nov · 18:44"
   },
   {
-   "title": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza",
-   "source": "OilPrice.com",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/One-Crew-Member-Dies-as-Diesel-Tanker-Sinks-off-Ibiza.html",
-   "time_utc": "2026-11-26T14:30:00Z",
-   "gst": "26 Nov · 18:30"
-  },
-  {
    "title": "Constellation Completes $5B Sale of 4.4GW PJM Assets to LS Power",
    "source": "Rigzone",
    "link": "https://www.rigzone.com/news/constellation_completes_5b_sale_of_44gw_pjm_assets_to_ls_power-26-nov-2026-185175-article/?rss=true",
    "time_utc": "2026-11-26T13:35:43Z",
    "gst": "26 Nov · 17:35"
-  },
-  {
-   "title": "Oil Prices Rebound as Middle East Supply Fears Return",
-   "source": "OilPrice.com",
-   "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
-   "time_utc": "2026-11-26T12:30:00Z",
-   "gst": "26 Nov · 16:30"
-  },
-  {
-   "title": "Iran Says LNG Carrier Exploded After Hitting a Mine in Hormuz",
-   "source": "OilPrice.com",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-LNG-Carrier-Exploded-After-Hitting-a-Mine-in-Hormuz.html",
-   "time_utc": "2026-11-26T12:30:00Z",
-   "gst": "26 Nov · 16:30"
   },
   {
    "title": "Equinor, JAPEX Agree Swap Involving Goliat, Verdande",
